@@ -4,7 +4,7 @@
 
 "@angular-devkit/architect@0.8.9":
   version "0.8.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@angular-devkit/architect/-/architect-0.8.9.tgz#95561f31d28118cc14f674227fe1177d2e864221"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.8.9.tgz#95561f31d28118cc14f674227fe1177d2e864221"
   integrity sha1-lVYfMdKBGMwU9nQif+EXfS6GQiE=
   dependencies:
     "@angular-devkit/core" "0.8.9"
@@ -12,7 +12,7 @@
 
 "@angular-devkit/build-angular@^0.8.0":
   version "0.8.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@angular-devkit/build-angular/-/build-angular-0.8.9.tgz#27f4dd238ddfb24b71fb528842bae41cd1984621"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-angular/-/build-angular-0.8.9.tgz#27f4dd238ddfb24b71fb528842bae41cd1984621"
   integrity sha1-J/TdI43fsktx+1KIQrrkHNGYRiE=
   dependencies:
     "@angular-devkit/architect" "0.8.9"
@@ -68,7 +68,7 @@
 
 "@angular-devkit/build-ng-packagr@^0.8.0":
   version "0.8.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@angular-devkit/build-ng-packagr/-/build-ng-packagr-0.8.9.tgz#6637f94cf137cf2c727185cb94c5c7299f6c75ce"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-ng-packagr/-/build-ng-packagr-0.8.9.tgz#6637f94cf137cf2c727185cb94c5c7299f6c75ce"
   integrity sha1-Zjf5TPE3zyxycYXLlMXHKZ9sdc4=
   dependencies:
     "@angular-devkit/architect" "0.8.9"
@@ -78,7 +78,7 @@
 
 "@angular-devkit/build-optimizer@0.8.9":
   version "0.8.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@angular-devkit/build-optimizer/-/build-optimizer-0.8.9.tgz#926c1b23140cf2b4421a39701766d845068ac493"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-optimizer/-/build-optimizer-0.8.9.tgz#926c1b23140cf2b4421a39701766d845068ac493"
   integrity sha1-kmwbIxQM8rRCGjlwF2bYRQaKxJM=
   dependencies:
     loader-utils "1.1.0"
@@ -88,7 +88,7 @@
 
 "@angular-devkit/build-webpack@0.8.9":
   version "0.8.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@angular-devkit/build-webpack/-/build-webpack-0.8.9.tgz#0dc5052101eed3d2eb619fbf219bb54cd52c1595"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/build-webpack/-/build-webpack-0.8.9.tgz#0dc5052101eed3d2eb619fbf219bb54cd52c1595"
   integrity sha1-DcUFIQHu09LrYZ+/IZu1TNUsFZU=
   dependencies:
     "@angular-devkit/architect" "0.8.9"
@@ -97,7 +97,7 @@
 
 "@angular-devkit/core@0.8.9":
   version "0.8.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@angular-devkit/core/-/core-0.8.9.tgz#87e8a9513e2aae8d43683c31dae494e29b4630c4"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-0.8.9.tgz#87e8a9513e2aae8d43683c31dae494e29b4630c4"
   integrity sha1-h+ipUT4qro1DaDwx2uSU4ptGMMQ=
   dependencies:
     ajv "6.4.0"
@@ -107,7 +107,7 @@
 
 "@angular-devkit/schematics@0.8.9":
   version "0.8.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@angular-devkit/schematics/-/schematics-0.8.9.tgz#f6551075d234c30787ba6200cfd4d959170fd843"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-0.8.9.tgz#f6551075d234c30787ba6200cfd4d959170fd843"
   integrity sha1-9lUQddI0wweHumIAz9TZWRcP2EM=
   dependencies:
     "@angular-devkit/core" "0.8.9"
@@ -121,7 +121,7 @@
 
 "@angular/cli@^6.2.0":
   version "6.2.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@angular/cli/-/cli-6.2.9.tgz#1f00dcfeba93d9eca1f107f5d3c4a6ffb47f7eef"
+  resolved "https://registry.yarnpkg.com/@angular/cli/-/cli-6.2.9.tgz#1f00dcfeba93d9eca1f107f5d3c4a6ffb47f7eef"
   integrity sha1-HwDc/rqT2eyh8Qf108Sm/7R/fu8=
   dependencies:
     "@angular-devkit/architect" "0.8.9"
@@ -214,7 +214,7 @@
 
 "@ngtools/webpack@6.2.9":
   version "6.2.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@ngtools/webpack/-/webpack-6.2.9.tgz#4614f770da86a08fa6d750c50fd4a1033e6a7128"
+  resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-6.2.9.tgz#4614f770da86a08fa6d750c50fd4a1033e6a7128"
   integrity sha1-RhT3cNqGoI+m11DFD9ShAz5qcSg=
   dependencies:
     "@angular-devkit/core" "0.8.9"
@@ -228,7 +228,7 @@
 
 "@schematics/angular@0.8.9":
   version "0.8.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@schematics/angular/-/angular-0.8.9.tgz#1a9d9f3fb11798830194956302fb2255fe2103ff"
+  resolved "https://registry.yarnpkg.com/@schematics/angular/-/angular-0.8.9.tgz#1a9d9f3fb11798830194956302fb2255fe2103ff"
   integrity sha1-Gp2fP7EXmIMBlJVjAvsiVf4hA/8=
   dependencies:
     "@angular-devkit/core" "0.8.9"
@@ -237,7 +237,7 @@
 
 "@schematics/update@0.8.9":
   version "0.8.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@schematics/update/-/update-0.8.9.tgz#bc60520ed8fdfa9f53940d26598dbece5b4a8a95"
+  resolved "https://registry.yarnpkg.com/@schematics/update/-/update-0.8.9.tgz#bc60520ed8fdfa9f53940d26598dbece5b4a8a95"
   integrity sha1-vGBSDtj9+p9TlA0mWY2+zltKipU=
   dependencies:
     "@angular-devkit/core" "0.8.9"
@@ -289,7 +289,7 @@
 
 "@webassemblyjs/ast@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/ast/-/ast-1.5.13.tgz#81155a570bd5803a30ec31436bc2c9c0ede38f25"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.5.13.tgz#81155a570bd5803a30ec31436bc2c9c0ede38f25"
   integrity sha1-gRVaVwvVgDow7DFDa8LJwO3jjyU=
   dependencies:
     "@webassemblyjs/helper-module-context" "1.5.13"
@@ -300,36 +300,36 @@
 
 "@webassemblyjs/floating-point-hex-parser@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.5.13.tgz#29ce0baa97411f70e8cce68ce9c0f9d819a4e298"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/floating-point-hex-parser/-/floating-point-hex-parser-1.5.13.tgz#29ce0baa97411f70e8cce68ce9c0f9d819a4e298"
   integrity sha1-Kc4LqpdBH3DozOaM6cD52Bmk4pg=
 
 "@webassemblyjs/helper-api-error@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/helper-api-error/-/helper-api-error-1.5.13.tgz#e49b051d67ee19a56e29b9aa8bd949b5b4442a59"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-api-error/-/helper-api-error-1.5.13.tgz#e49b051d67ee19a56e29b9aa8bd949b5b4442a59"
   integrity sha1-5JsFHWfuGaVuKbmqi9lJtbREKlk=
 
 "@webassemblyjs/helper-buffer@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/helper-buffer/-/helper-buffer-1.5.13.tgz#873bb0a1b46449231137c1262ddfd05695195a1e"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-buffer/-/helper-buffer-1.5.13.tgz#873bb0a1b46449231137c1262ddfd05695195a1e"
   integrity sha1-hzuwobRkSSMRN8EmLd/QVpUZWh4=
   dependencies:
     debug "^3.1.0"
 
 "@webassemblyjs/helper-code-frame@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/helper-code-frame/-/helper-code-frame-1.5.13.tgz#1bd2181b6a0be14e004f0fe9f5a660d265362b58"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-code-frame/-/helper-code-frame-1.5.13.tgz#1bd2181b6a0be14e004f0fe9f5a660d265362b58"
   integrity sha1-G9IYG2oL4U4ATw/p9aZg0mU2K1g=
   dependencies:
     "@webassemblyjs/wast-printer" "1.5.13"
 
 "@webassemblyjs/helper-fsm@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/helper-fsm/-/helper-fsm-1.5.13.tgz#cdf3d9d33005d543a5c5e5adaabf679ffa8db924"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-fsm/-/helper-fsm-1.5.13.tgz#cdf3d9d33005d543a5c5e5adaabf679ffa8db924"
   integrity sha1-zfPZ0zAF1UOlxeWtqr9nn/qNuSQ=
 
 "@webassemblyjs/helper-module-context@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/helper-module-context/-/helper-module-context-1.5.13.tgz#dc29ddfb51ed657655286f94a5d72d8a489147c5"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-module-context/-/helper-module-context-1.5.13.tgz#dc29ddfb51ed657655286f94a5d72d8a489147c5"
   integrity sha1-3Cnd+1HtZXZVKG+UpdctikiRR8U=
   dependencies:
     debug "^3.1.0"
@@ -337,12 +337,12 @@
 
 "@webassemblyjs/helper-wasm-bytecode@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.5.13.tgz#03245817f0a762382e61733146f5773def15a747"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-wasm-bytecode/-/helper-wasm-bytecode-1.5.13.tgz#03245817f0a762382e61733146f5773def15a747"
   integrity sha1-AyRYF/CnYjguYXMxRvV3Pe8Vp0c=
 
 "@webassemblyjs/helper-wasm-section@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.5.13.tgz#efc76f44a10d3073b584b43c38a179df173d5c7d"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/helper-wasm-section/-/helper-wasm-section-1.5.13.tgz#efc76f44a10d3073b584b43c38a179df173d5c7d"
   integrity sha1-78dvRKENMHO1hLQ8OKF53xc9XH0=
   dependencies:
     "@webassemblyjs/ast" "1.5.13"
@@ -353,26 +353,26 @@
 
 "@webassemblyjs/ieee754@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/ieee754/-/ieee754-1.5.13.tgz#573e97c8c12e4eebb316ca5fde0203ddd90b0364"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/ieee754/-/ieee754-1.5.13.tgz#573e97c8c12e4eebb316ca5fde0203ddd90b0364"
   integrity sha1-Vz6XyMEuTuuzFspf3gID3dkLA2Q=
   dependencies:
     ieee754 "^1.1.11"
 
 "@webassemblyjs/leb128@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/leb128/-/leb128-1.5.13.tgz#ab52ebab9cec283c1c1897ac1da833a04a3f4cee"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/leb128/-/leb128-1.5.13.tgz#ab52ebab9cec283c1c1897ac1da833a04a3f4cee"
   integrity sha1-q1Lrq5zsKDwcGJesHagzoEo/TO4=
   dependencies:
     long "4.0.0"
 
 "@webassemblyjs/utf8@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/utf8/-/utf8-1.5.13.tgz#6b53d2cd861cf94fa99c1f12779dde692fbc2469"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/utf8/-/utf8-1.5.13.tgz#6b53d2cd861cf94fa99c1f12779dde692fbc2469"
   integrity sha1-a1PSzYYc+U+pnB8Sd53eaS+8JGk=
 
 "@webassemblyjs/wasm-edit@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/wasm-edit/-/wasm-edit-1.5.13.tgz#c9cef5664c245cf11b3b3a73110c9155831724a8"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-edit/-/wasm-edit-1.5.13.tgz#c9cef5664c245cf11b3b3a73110c9155831724a8"
   integrity sha1-yc71ZkwkXPEbOzpzEQyRVYMXJKg=
   dependencies:
     "@webassemblyjs/ast" "1.5.13"
@@ -387,7 +387,7 @@
 
 "@webassemblyjs/wasm-gen@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/wasm-gen/-/wasm-gen-1.5.13.tgz#8e6ea113c4b432fa66540189e79b16d7a140700e"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-gen/-/wasm-gen-1.5.13.tgz#8e6ea113c4b432fa66540189e79b16d7a140700e"
   integrity sha1-jm6hE8S0MvpmVAGJ55sW16FAcA4=
   dependencies:
     "@webassemblyjs/ast" "1.5.13"
@@ -398,7 +398,7 @@
 
 "@webassemblyjs/wasm-opt@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/wasm-opt/-/wasm-opt-1.5.13.tgz#147aad7717a7ee4211c36b21a5f4c30dddf33138"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-opt/-/wasm-opt-1.5.13.tgz#147aad7717a7ee4211c36b21a5f4c30dddf33138"
   integrity sha1-FHqtdxen7kIRw2shpfTDDd3zMTg=
   dependencies:
     "@webassemblyjs/ast" "1.5.13"
@@ -409,7 +409,7 @@
 
 "@webassemblyjs/wasm-parser@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/wasm-parser/-/wasm-parser-1.5.13.tgz#6f46516c5bb23904fbdf58009233c2dd8a54c72f"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wasm-parser/-/wasm-parser-1.5.13.tgz#6f46516c5bb23904fbdf58009233c2dd8a54c72f"
   integrity sha1-b0ZRbFuyOQT731gAkjPC3YpUxy8=
   dependencies:
     "@webassemblyjs/ast" "1.5.13"
@@ -421,7 +421,7 @@
 
 "@webassemblyjs/wast-parser@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/wast-parser/-/wast-parser-1.5.13.tgz#5727a705d397ae6a3ae99d7f5460acf2ec646eea"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wast-parser/-/wast-parser-1.5.13.tgz#5727a705d397ae6a3ae99d7f5460acf2ec646eea"
   integrity sha1-VyenBdOXrmo66Z1/VGCs8uxkbuo=
   dependencies:
     "@webassemblyjs/ast" "1.5.13"
@@ -434,7 +434,7 @@
 
 "@webassemblyjs/wast-printer@1.5.13":
   version "1.5.13"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@webassemblyjs/wast-printer/-/wast-printer-1.5.13.tgz#bb34d528c14b4f579e7ec11e793ec50ad7cd7c95"
+  resolved "https://registry.yarnpkg.com/@webassemblyjs/wast-printer/-/wast-printer-1.5.13.tgz#bb34d528c14b4f579e7ec11e793ec50ad7cd7c95"
   integrity sha1-uzTVKMFLT1eefsEeeT7FCtfNfJU=
   dependencies:
     "@webassemblyjs/ast" "1.5.13"
@@ -443,12 +443,12 @@
 
 "@yarnpkg/lockfile@1.1.0":
   version "1.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/@yarnpkg/lockfile/-/lockfile-1.1.0.tgz#e77a97fbd345b76d83245edcd17d393b1b41fb31"
+  resolved "https://registry.yarnpkg.com/@yarnpkg/lockfile/-/lockfile-1.1.0.tgz#e77a97fbd345b76d83245edcd17d393b1b41fb31"
   integrity sha1-53qX+9NFt22DJF7c0X05OxtB+zE=
 
 JSONStream@^1.3.4:
   version "1.3.5"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/JSONStream/-/JSONStream-1.3.5.tgz#3208c1f08d3a4d99261ab64f92302bc15e111ca0"
+  resolved "https://registry.yarnpkg.com/JSONStream/-/JSONStream-1.3.5.tgz#3208c1f08d3a4d99261ab64f92302bc15e111ca0"
   integrity sha1-MgjB8I06TZkmGrZPkjArwV4RHKA=
   dependencies:
     jsonparse "^1.2.0"
@@ -481,7 +481,7 @@ acorn@^5.0.0:
 
 acorn@^5.6.2:
   version "5.7.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
   integrity sha1-Z6ojG/iBKXS4UjWpZ3Hra9B+onk=
 
 addressparser@1.0.1:
@@ -508,14 +508,14 @@ agent-base@4, agent-base@^4.1.0, agent-base@^4.2.0, agent-base@~4.2.0:
 
 agentkeepalive@^3.4.1:
   version "3.5.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/agentkeepalive/-/agentkeepalive-3.5.2.tgz#a113924dd3fa24a0bc3b78108c450c2abee00f67"
+  resolved "https://registry.yarnpkg.com/agentkeepalive/-/agentkeepalive-3.5.2.tgz#a113924dd3fa24a0bc3b78108c450c2abee00f67"
   integrity sha1-oROSTdP6JKC8O3gQjEUMKr7gD2c=
   dependencies:
     humanize-ms "^1.2.1"
 
 ajv-errors@^1.0.0:
   version "1.0.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/ajv-errors/-/ajv-errors-1.0.1.tgz#f35986aceb91afadec4102fbd85014950cefa64d"
+  resolved "https://registry.yarnpkg.com/ajv-errors/-/ajv-errors-1.0.1.tgz#f35986aceb91afadec4102fbd85014950cefa64d"
   integrity sha1-81mGrOuRr63sQQL72FAUlQzvpk0=
 
 ajv-keywords@^3.1.0:
@@ -551,7 +551,7 @@ ajv@^6.1.0:
 
 ajv@^6.5.5:
   version "6.9.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/ajv/-/ajv-6.9.2.tgz#4927adb83e7f48e5a32b45729744c71ec39c9c7b"
+  resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.9.2.tgz#4927adb83e7f48e5a32b45729744c71ec39c9c7b"
   integrity sha1-SSetuD5/SOWjK0Vyl0THHsOcnHs=
   dependencies:
     fast-deep-equal "^2.0.1"
@@ -589,7 +589,7 @@ ansi-align@^2.0.0:
 
 ansi-colors@^3.0.0:
   version "3.2.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/ansi-colors/-/ansi-colors-3.2.3.tgz#57d35b8686e851e2cc04c403f1c00203976a1813"
+  resolved "https://registry.yarnpkg.com/ansi-colors/-/ansi-colors-3.2.3.tgz#57d35b8686e851e2cc04c403f1c00203976a1813"
   integrity sha1-V9NbhoboUeLMBMQD8cACA5dqGBM=
 
 ansi-html@0.0.7:
@@ -777,7 +777,7 @@ async@^2.1.4, async@~2.6.0:
 
 async@^2.5.0:
   version "2.6.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/async/-/async-2.6.2.tgz#18330ea7e6e313887f5d2f2a904bac6fe4dd5381"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.2.tgz#18330ea7e6e313887f5d2f2a904bac6fe4dd5381"
   integrity sha1-GDMOp+bjE4h/XS8qkEusb+TdU4E=
   dependencies:
     lodash "^4.17.11"
@@ -792,7 +792,7 @@ atob@^2.1.1:
 
 autoprefixer@8.6.5:
   version "8.6.5"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/autoprefixer/-/autoprefixer-8.6.5.tgz#343f3d193ed568b3208e00117a1b96eb691d4ee9"
+  resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-8.6.5.tgz#343f3d193ed568b3208e00117a1b96eb691d4ee9"
   integrity sha1-ND89GT7VaLMgjgARehuW62kdTuk=
   dependencies:
     browserslist "^3.2.8"
@@ -804,7 +804,7 @@ autoprefixer@8.6.5:
 
 autoprefixer@^9.0.0:
   version "9.4.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/autoprefixer/-/autoprefixer-9.4.9.tgz#0d3eb86bc1d1228551abcf55220d6fd246b6cb31"
+  resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.4.9.tgz#0d3eb86bc1d1228551abcf55220d6fd246b6cb31"
   integrity sha1-DT64a8HRIoVRq89VIg1v0ka2yzE=
   dependencies:
     browserslist "^4.4.2"
@@ -828,7 +828,7 @@ aws4@^1.2.1, aws4@^1.6.0:
 
 aws4@^1.8.0:
   version "1.8.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/aws4/-/aws4-1.8.0.tgz#f0e003d9ca9e7f59c7a508945d7b2ef9a04a542f"
+  resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.8.0.tgz#f0e003d9ca9e7f59c7a508945d7b2ef9a04a542f"
   integrity sha1-8OAD2cqef1nHpQiUXXsu+aBKVC8=
 
 axios@^0.15.3:
@@ -998,7 +998,7 @@ bluebird@^3.3.0, bluebird@^3.4.6, bluebird@^3.5.1:
 
 bluebird@^3.5.2, bluebird@^3.5.3:
   version "3.5.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/bluebird/-/bluebird-3.5.3.tgz#7d01c6f9616c9a51ab0f8c549a79dfe6ec33efa7"
+  resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.5.3.tgz#7d01c6f9616c9a51ab0f8c549a79dfe6ec33efa7"
   integrity sha1-fQHG+WFsmlGrD4xUmnnf5uwz76c=
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.4.0:
@@ -1058,7 +1058,7 @@ boom@2.x.x:
 
 bootstrap@^3.3.7:
   version "3.4.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/bootstrap/-/bootstrap-3.4.0.tgz#f8d77540dd3062283d2ae7687e21c1e691961640"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.4.0.tgz#f8d77540dd3062283d2ae7687e21c1e691961640"
 
 boxen@^1.2.1:
   version "1.3.0"
@@ -1173,7 +1173,7 @@ browserslist@^3.2.8:
 
 browserslist@^4.0.0, browserslist@^4.4.2:
   version "4.4.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/browserslist/-/browserslist-4.4.2.tgz#6ea8a74d6464bb0bd549105f659b41197d8f0ba2"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.4.2.tgz#6ea8a74d6464bb0bd549105f659b41197d8f0ba2"
   integrity sha1-bqinTWRkuwvVSRBfZZtBGX2PC6I=
   dependencies:
     caniuse-lite "^1.0.30000939"
@@ -1222,7 +1222,7 @@ builtin-modules@^1.0.0, builtin-modules@^1.1.1:
 
 builtin-modules@^3.0.0:
   version "3.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/builtin-modules/-/builtin-modules-3.0.0.tgz#1e587d44b006620d90286cc7a9238bbc6129cab1"
+  resolved "https://registry.yarnpkg.com/builtin-modules/-/builtin-modules-3.0.0.tgz#1e587d44b006620d90286cc7a9238bbc6129cab1"
   integrity sha1-Hlh9RLAGYg2QKGzHqSOLvGEpyrE=
 
 builtin-status-codes@^3.0.0:
@@ -1257,7 +1257,7 @@ cacache@^10.0.4:
 
 cacache@^11.0.1, cacache@^11.2.0:
   version "11.3.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/cacache/-/cacache-11.3.2.tgz#2d81e308e3d258ca38125b676b98b2ac9ce69bfa"
+  resolved "https://registry.yarnpkg.com/cacache/-/cacache-11.3.2.tgz#2d81e308e3d258ca38125b676b98b2ac9ce69bfa"
   integrity sha1-LYHjCOPSWMo4Eltna5iyrJzmm/o=
   dependencies:
     bluebird "^3.5.3"
@@ -1341,7 +1341,7 @@ caniuse-lite@^1.0.30000844, caniuse-lite@^1.0.30000864:
 
 caniuse-lite@^1.0.30000939:
   version "1.0.30000939"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/caniuse-lite/-/caniuse-lite-1.0.30000939.tgz#b9ab7ac9e861bf78840b80c5dfbc471a5cd7e679"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000939.tgz#b9ab7ac9e861bf78840b80c5dfbc471a5cd7e679"
   integrity sha1-uat6yehhv3iEC4DF37xHGlzX5nk=
 
 capture-stack-trace@^1.0.0:
@@ -1383,7 +1383,7 @@ chalk@^2.0.1, chalk@^2.3.0, chalk@^2.3.1, chalk@^2.4.1:
 
 chalk@^2.4.2:
   version "2.4.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"
   integrity sha1-zUJUFnelQzPPVBpJEIwUMrRMlCQ=
   dependencies:
     ansi-styles "^3.2.1"
@@ -1430,12 +1430,12 @@ chownr@^1.0.1:
 
 chownr@^1.1.1:
   version "1.1.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/chownr/-/chownr-1.1.1.tgz#54726b8b8fff4df053c42187e801fb4412df1494"
+  resolved "https://registry.yarnpkg.com/chownr/-/chownr-1.1.1.tgz#54726b8b8fff4df053c42187e801fb4412df1494"
   integrity sha1-VHJri4//TfBTxCGH6AH7RBLfFJQ=
 
 chrome-trace-event@^1.0.0:
   version "1.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/chrome-trace-event/-/chrome-trace-event-1.0.0.tgz#45a91bd2c20c9411f0963b5aaeb9a1b95e09cc48"
+  resolved "https://registry.yarnpkg.com/chrome-trace-event/-/chrome-trace-event-1.0.0.tgz#45a91bd2c20c9411f0963b5aaeb9a1b95e09cc48"
   integrity sha1-Rakb0sIMlBHwljtarrmhuV4JzEg=
   dependencies:
     tslib "^1.9.0"
@@ -1453,7 +1453,7 @@ cipher-base@^1.0.0, cipher-base@^1.0.1, cipher-base@^1.0.3:
 
 circular-dependency-plugin@5.0.2:
   version "5.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/circular-dependency-plugin/-/circular-dependency-plugin-5.0.2.tgz#da168c0b37e7b43563fb9f912c1c007c213389ef"
+  resolved "https://registry.yarnpkg.com/circular-dependency-plugin/-/circular-dependency-plugin-5.0.2.tgz#da168c0b37e7b43563fb9f912c1c007c213389ef"
   integrity sha1-2haMCzfntDVj+5+RLBwAfCEzie8=
 
 circular-json@^0.5.4:
@@ -1477,7 +1477,7 @@ clean-css@4.1.x:
 
 clean-css@4.2.1, clean-css@^4.1.11:
   version "4.2.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/clean-css/-/clean-css-4.2.1.tgz#2d411ef76b8569b6d0c84068dabe85b0aa5e5c17"
+  resolved "https://registry.yarnpkg.com/clean-css/-/clean-css-4.2.1.tgz#2d411ef76b8569b6d0c84068dabe85b0aa5e5c17"
   integrity sha1-LUEe92uFabbQyEBo2r6FsKpeXBc=
   dependencies:
     source-map "~0.6.0"
@@ -1525,7 +1525,7 @@ clone@^2.1.1:
 
 clone@^2.1.2:
   version "2.1.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/clone/-/clone-2.1.2.tgz#1b7f4b9f591f1e8f83670401600345a02887435f"
+  resolved "https://registry.yarnpkg.com/clone/-/clone-2.1.2.tgz#1b7f4b9f591f1e8f83670401600345a02887435f"
   integrity sha1-G39Ln1kfHo+DZwQBYANFoCiHQ18=
 
 co@^4.6.0:
@@ -1586,7 +1586,7 @@ combined-stream@1.0.6, combined-stream@^1.0.5, combined-stream@~1.0.5:
 
 combined-stream@^1.0.6, combined-stream@~1.0.6:
   version "1.0.7"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/combined-stream/-/combined-stream-1.0.7.tgz#2d1d24317afb8abe95d6d2c0b07b57813539d828"
+  resolved "https://registry.yarnpkg.com/combined-stream/-/combined-stream-1.0.7.tgz#2d1d24317afb8abe95d6d2c0b07b57813539d828"
   integrity sha1-LR0kMXr7ir6V1tLAsHtXgTU52Cg=
   dependencies:
     delayed-stream "~1.0.0"
@@ -1725,7 +1725,7 @@ copy-descriptor@^0.1.0:
 
 copy-webpack-plugin@4.5.2:
   version "4.5.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/copy-webpack-plugin/-/copy-webpack-plugin-4.5.2.tgz#d53444a8fea2912d806e78937390ddd7e632ee5c"
+  resolved "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-4.5.2.tgz#d53444a8fea2912d806e78937390ddd7e632ee5c"
   integrity sha1-1TREqP6ikS2AbniTc5Dd1+Yy7lw=
   dependencies:
     cacache "^10.0.4"
@@ -1751,7 +1751,7 @@ core-util-is@1.0.2, core-util-is@~1.0.0:
 
 cosmiconfig@^4.0.0:
   version "4.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/cosmiconfig/-/cosmiconfig-4.0.0.tgz#760391549580bbd2df1e562bc177b13c290972dc"
+  resolved "https://registry.yarnpkg.com/cosmiconfig/-/cosmiconfig-4.0.0.tgz#760391549580bbd2df1e562bc177b13c290972dc"
   integrity sha1-dgORVJWAu9LfHlYrwXexPCkJctw=
   dependencies:
     is-directory "^0.3.1"
@@ -1836,7 +1836,7 @@ cross-spawn@^5.0.1:
 
 cross-spawn@^6.0.0:
   version "6.0.5"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/cross-spawn/-/cross-spawn-6.0.5.tgz#4a5ec7c64dfae22c3a14124dbacdee846d80cbc4"
+  resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-6.0.5.tgz#4a5ec7c64dfae22c3a14124dbacdee846d80cbc4"
   integrity sha1-Sl7Hxk364iw6FBJNus3uhG2Ay8Q=
   dependencies:
     nice-try "^1.0.4"
@@ -1956,14 +1956,14 @@ debug@2, debug@2.6.9, debug@^2.1.2, debug@^2.2.0, debug@^2.3.3, debug@^2.6.8, de
 
 debug@^3.2.5:
   version "3.2.6"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
   integrity sha1-6D0X3hbYp++3cX7b5fsQE17uYps=
   dependencies:
     ms "^2.1.1"
 
 debug@^4.1.0:
   version "4.1.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/debug/-/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
   integrity sha1-O3ImAlUQnGtYnO4FDx1RYTlmR5E=
   dependencies:
     ms "^2.1.1"
@@ -1981,7 +1981,7 @@ decamelize@^1.0.0, decamelize@^1.1.0, decamelize@^1.1.1, decamelize@^1.1.2:
 
 decamelize@^2.0.0:
   version "2.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/decamelize/-/decamelize-2.0.0.tgz#656d7bbc8094c4c788ea53c5840908c9c7d063c7"
+  resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-2.0.0.tgz#656d7bbc8094c4c788ea53c5840908c9c7d063c7"
   integrity sha1-ZW17vICUxMeI6lPFhAkIycfQY8c=
   dependencies:
     xregexp "4.0.0"
@@ -2004,7 +2004,7 @@ deep-is@~0.1.3:
 
 default-gateway@^2.6.0:
   version "2.7.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/default-gateway/-/default-gateway-2.7.2.tgz#b7ef339e5e024b045467af403d50348db4642d0f"
+  resolved "https://registry.yarnpkg.com/default-gateway/-/default-gateway-2.7.2.tgz#b7ef339e5e024b045467af403d50348db4642d0f"
   integrity sha1-t+8znl4CSwRUZ69APVA0jbRkLQ8=
   dependencies:
     execa "^0.10.0"
@@ -2112,7 +2112,7 @@ detect-libc@^1.0.2:
 
 detect-node@^2.0.4:
   version "2.0.4"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/detect-node/-/detect-node-2.0.4.tgz#014ee8f8f669c5c58023da64b8179c083a28c46c"
+  resolved "https://registry.yarnpkg.com/detect-node/-/detect-node-2.0.4.tgz#014ee8f8f669c5c58023da64b8179c083a28c46c"
   integrity sha1-AU7o+PZpxcWAI9pkuBecCDooxGw=
 
 di@^0.0.1:
@@ -2247,7 +2247,7 @@ ejs@^2.5.7:
 
 electron-to-chromium@^1.3.113:
   version "1.3.113"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/electron-to-chromium/-/electron-to-chromium-1.3.113.tgz#b1ccf619df7295aea17bc6951dc689632629e4a9"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.113.tgz#b1ccf619df7295aea17bc6951dc689632629e4a9"
   integrity sha1-scz2Gd9yla6he8aVHcaJYyYp5Kk=
 
 electron-to-chromium@^1.3.47:
@@ -2276,7 +2276,7 @@ encodeurl@~1.0.1, encodeurl@~1.0.2:
 
 encoding@^0.1.11:
   version "0.1.12"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/encoding/-/encoding-0.1.12.tgz#538b66f3ee62cd1ab51ec323829d1f9480c74beb"
+  resolved "https://registry.yarnpkg.com/encoding/-/encoding-0.1.12.tgz#538b66f3ee62cd1ab51ec323829d1f9480c74beb"
   integrity sha1-U4tm8+5izRq1HsMjgp0flIDHS+s=
   dependencies:
     iconv-lite "~0.4.13"
@@ -2328,7 +2328,7 @@ engine.io@~3.1.0:
 
 enhanced-resolve@^4.1.0:
   version "4.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/enhanced-resolve/-/enhanced-resolve-4.1.0.tgz#41c7e0bfdfe74ac1ffe1e57ad6a5c6c9f3742a7f"
+  resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-4.1.0.tgz#41c7e0bfdfe74ac1ffe1e57ad6a5c6c9f3742a7f"
   integrity sha1-Qcfgv9/nSsH/4eV61qXGyfN0Kn8=
   dependencies:
     graceful-fs "^4.1.2"
@@ -2345,7 +2345,7 @@ entities@~1.1.1:
 
 err-code@^1.0.0:
   version "1.1.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/err-code/-/err-code-1.1.2.tgz#06e0116d3028f6aef4806849eb0ea6a748ae6960"
+  resolved "https://registry.yarnpkg.com/err-code/-/err-code-1.1.2.tgz#06e0116d3028f6aef4806849eb0ea6a748ae6960"
   integrity sha1-BuARbTAo9q70gGhJ6w6mp0iuaWA=
 
 errno@^0.1.1, errno@^0.1.3, errno@~0.1.7:
@@ -2424,7 +2424,7 @@ escodegen@1.x.x:
 
 eslint-scope@^4.0.0:
   version "4.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/eslint-scope/-/eslint-scope-4.0.0.tgz#50bf3071e9338bcdc43331794a0cb533f0136172"
+  resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-4.0.0.tgz#50bf3071e9338bcdc43331794a0cb533f0136172"
   integrity sha1-UL8wcekzi83EMzF5Sgy1M/ATYXI=
   dependencies:
     esrecurse "^4.1.0"
@@ -2462,7 +2462,7 @@ estree-walker@^0.5.1, estree-walker@^0.5.2:
 
 estree-walker@^0.6.0:
   version "0.6.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/estree-walker/-/estree-walker-0.6.0.tgz#5d865327c44a618dde5699f763891ae31f257dae"
+  resolved "https://registry.yarnpkg.com/estree-walker/-/estree-walker-0.6.0.tgz#5d865327c44a618dde5699f763891ae31f257dae"
   integrity sha1-XYZTJ8RKYY3eVpn3Y4ka4x8lfa4=
 
 esutils@^2.0.2:
@@ -2483,7 +2483,7 @@ events@^1.0.0:
 
 eventsource@^1.0.7:
   version "1.0.7"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/eventsource/-/eventsource-1.0.7.tgz#8fbc72c93fcd34088090bc0a4e64f4b5cee6d8d0"
+  resolved "https://registry.yarnpkg.com/eventsource/-/eventsource-1.0.7.tgz#8fbc72c93fcd34088090bc0a4e64f4b5cee6d8d0"
   integrity sha1-j7xyyT/NNAiAkLwKTmT0tc7m2NA=
   dependencies:
     original "^1.0.0"
@@ -2497,7 +2497,7 @@ evp_bytestokey@^1.0.0, evp_bytestokey@^1.0.3:
 
 execa@^0.10.0:
   version "0.10.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/execa/-/execa-0.10.0.tgz#ff456a8f53f90f8eccc71a96d11bdfc7f082cb50"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-0.10.0.tgz#ff456a8f53f90f8eccc71a96d11bdfc7f082cb50"
   integrity sha1-/0Vqj1P5D47MxxqW0Rvfx/CCy1A=
   dependencies:
     cross-spawn "^6.0.0"
@@ -2522,7 +2522,7 @@ execa@^0.7.0:
 
 execa@^1.0.0:
   version "1.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/execa/-/execa-1.0.0.tgz#c6236a5bb4df6d6f15e88e7f017798216749ddd8"
+  resolved "https://registry.yarnpkg.com/execa/-/execa-1.0.0.tgz#c6236a5bb4df6d6f15e88e7f017798216749ddd8"
   integrity sha1-xiNqW7TfbW8V6I5/AXeYIWdJ3dg=
   dependencies:
     cross-spawn "^6.0.0"
@@ -2630,7 +2630,7 @@ extend@3, extend@^3.0.0, extend@~3.0.0, extend@~3.0.1:
 
 extend@~3.0.2:
   version "3.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
+  resolved "https://registry.yarnpkg.com/extend/-/extend-3.0.2.tgz#f8b1136b4071fbd8eb140aff858b1019ec2915fa"
   integrity sha1-+LETa0Bx+9jrFAr/hYsQGewpFfo=
 
 extglob@^0.3.1:
@@ -2699,19 +2699,19 @@ faye-websocket@^0.10.0:
 
 faye-websocket@~0.11.1:
   version "0.11.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/faye-websocket/-/faye-websocket-0.11.1.tgz#f0efe18c4f56e4f40afc7e06c719fd5ee6188f38"
+  resolved "https://registry.yarnpkg.com/faye-websocket/-/faye-websocket-0.11.1.tgz#f0efe18c4f56e4f40afc7e06c719fd5ee6188f38"
   integrity sha1-8O/hjE9W5PQK/H4Gxxn9XuYYjzg=
   dependencies:
     websocket-driver ">=0.5.1"
 
 figgy-pudding@^3.4.1, figgy-pudding@^3.5.1:
   version "3.5.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/figgy-pudding/-/figgy-pudding-3.5.1.tgz#862470112901c727a0e495a80744bd5baa1d6790"
+  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.1.tgz#862470112901c727a0e495a80744bd5baa1d6790"
   integrity sha1-hiRwESkBxyeg5JWoB0S9W6odZ5A=
 
 file-loader@1.1.11:
   version "1.1.11"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/file-loader/-/file-loader-1.1.11.tgz#6fe886449b0f2a936e43cabaac0cdbfb369506f8"
+  resolved "https://registry.yarnpkg.com/file-loader/-/file-loader-1.1.11.tgz#6fe886449b0f2a936e43cabaac0cdbfb369506f8"
   integrity sha1-b+iGRJsPKpNuQ8q6rAzb+zaVBvg=
   dependencies:
     loader-utils "^1.0.2"
@@ -2802,7 +2802,7 @@ find-up@^2.0.0, find-up@^2.1.0:
 
 find-up@^3.0.0:
   version "3.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/find-up/-/find-up-3.0.0.tgz#49169f1d7993430646da61ecc5ae355c21c97b73"
+  resolved "https://registry.yarnpkg.com/find-up/-/find-up-3.0.0.tgz#49169f1d7993430646da61ecc5ae355c21c97b73"
   integrity sha1-SRafHXmTQwZG2mHsxa41XCHJe3M=
   dependencies:
     locate-path "^3.0.0"
@@ -2872,7 +2872,7 @@ form-data@~2.3.0, form-data@~2.3.1:
 
 form-data@~2.3.2:
   version "2.3.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/form-data/-/form-data-2.3.3.tgz#dcce52c05f644f298c6a7ab936bd724ceffbf3a6"
+  resolved "https://registry.yarnpkg.com/form-data/-/form-data-2.3.3.tgz#dcce52c05f644f298c6a7ab936bd724ceffbf3a6"
   integrity sha1-3M5SwF9kTymManq5Nr1yTO/786Y=
   dependencies:
     asynckit "^0.4.0"
@@ -2908,7 +2908,7 @@ fs-access@^1.0.0:
 
 fs-extra@^7.0.0:
   version "7.0.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/fs-extra/-/fs-extra-7.0.1.tgz#4f189c44aa123b895f722804f55ea23eadc348e9"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-7.0.1.tgz#4f189c44aa123b895f722804f55ea23eadc348e9"
   integrity sha1-TxicRKoSO4lfcigE9V6iPq3DSOk=
   dependencies:
     graceful-fs "^4.1.2"
@@ -2992,7 +2992,7 @@ generate-object-property@^1.1.0:
 
 genfun@^5.0.0:
   version "5.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/genfun/-/genfun-5.0.0.tgz#9dd9710a06900a5c4a5bf57aca5da4e52fe76537"
+  resolved "https://registry.yarnpkg.com/genfun/-/genfun-5.0.0.tgz#9dd9710a06900a5c4a5bf57aca5da4e52fe76537"
   integrity sha1-ndlxCgaQClxKW/V6yl2k5S/nZTc=
 
 get-caller-file@^1.0.1:
@@ -3009,7 +3009,7 @@ get-stream@^3.0.0:
 
 get-stream@^4.0.0, get-stream@^4.1.0:
   version "4.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/get-stream/-/get-stream-4.1.0.tgz#c1b255575f3dc21d59bfc79cd3d2b46b1c3a54b5"
+  resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-4.1.0.tgz#c1b255575f3dc21d59bfc79cd3d2b46b1c3a54b5"
   integrity sha1-wbJVV189wh1Zv8ec09K0axw6VLU=
   dependencies:
     pump "^3.0.0"
@@ -3072,7 +3072,7 @@ glob@7.0.x:
 
 glob@7.1.3, glob@^7.1.3:
   version "7.1.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/glob/-/glob-7.1.3.tgz#3960832d3f1574108342dafd3a67b332c0969df1"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-7.1.3.tgz#3960832d3f1574108342dafd3a67b332c0969df1"
   integrity sha1-OWCDLT8VdBCDQtr9OmezMsCWnfE=
   dependencies:
     fs.realpath "^1.0.0"
@@ -3197,12 +3197,12 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.6:
 
 graceful-fs@^4.1.15:
   version "4.1.15"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/graceful-fs/-/graceful-fs-4.1.15.tgz#ffb703e1066e8a0eeaa4c8b80ba9253eeefbfb00"
+  resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.1.15.tgz#ffb703e1066e8a0eeaa4c8b80ba9253eeefbfb00"
   integrity sha1-/7cD4QZuig7qpMi4C6klPu77+wA=
 
 handle-thing@^2.0.0:
   version "2.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/handle-thing/-/handle-thing-2.0.0.tgz#0e039695ff50c93fc288557d696f3c1dc6776754"
+  resolved "https://registry.yarnpkg.com/handle-thing/-/handle-thing-2.0.0.tgz#0e039695ff50c93fc288557d696f3c1dc6776754"
   integrity sha1-DgOWlf9QyT/CiFV9aW88HcZ3Z1Q=
 
 handlebars@^4.0.1, handlebars@^4.0.3:
@@ -3237,7 +3237,7 @@ har-validator@~5.0.3:
 
 har-validator@~5.1.0:
   version "5.1.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/har-validator/-/har-validator-5.1.3.tgz#1ef89ebd3e4996557675eed9893110dc350fa080"
+  resolved "https://registry.yarnpkg.com/har-validator/-/har-validator-5.1.3.tgz#1ef89ebd3e4996557675eed9893110dc350fa080"
   integrity sha1-HvievT5JllV2de7ZiTEQ3DUPoIA=
   dependencies:
     ajv "^6.5.5"
@@ -3381,7 +3381,7 @@ html-minifier@^3.2.3:
 
 html-webpack-plugin@3.2.0:
   version "3.2.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/html-webpack-plugin/-/html-webpack-plugin-3.2.0.tgz#b01abbd723acaaa7b37b6af4492ebda03d9dd37b"
+  resolved "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-3.2.0.tgz#b01abbd723acaaa7b37b6af4492ebda03d9dd37b"
   integrity sha1-sBq71yOsqqeze2r0SS69oD2d03s=
   dependencies:
     html-minifier "^3.2.3"
@@ -3403,7 +3403,7 @@ htmlparser2@~3.3.0:
 
 http-cache-semantics@^3.8.1:
   version "3.8.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/http-cache-semantics/-/http-cache-semantics-3.8.1.tgz#39b0e16add9b605bf0a9ef3d9daaf4843b4cacd2"
+  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-3.8.1.tgz#39b0e16add9b605bf0a9ef3d9daaf4843b4cacd2"
   integrity sha1-ObDhat2bYFvwqe89nar0hDtMrNI=
 
 http-deceiver@^1.2.7:
@@ -3496,7 +3496,7 @@ https-proxy-agent@^2.2.1:
 
 humanize-ms@^1.2.1:
   version "1.2.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/humanize-ms/-/humanize-ms-1.2.1.tgz#c46e3159a293f6b896da29316d8b6fe8bb79bbed"
+  resolved "https://registry.yarnpkg.com/humanize-ms/-/humanize-ms-1.2.1.tgz#c46e3159a293f6b896da29316d8b6fe8bb79bbed"
   integrity sha1-xG4xWaKT9riW2ikxbYtv6Lt5u+0=
   dependencies:
     ms "^2.0.0"
@@ -3517,7 +3517,7 @@ iconv-lite@0.4.23, iconv-lite@^0.4.4:
 
 iconv-lite@~0.4.13:
   version "0.4.24"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
+  resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
   integrity sha1-ICK0sl+93CHS9SSXSkdKr+czkIs=
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
@@ -3550,14 +3550,14 @@ immediate@~3.0.5:
 
 import-cwd@^2.0.0:
   version "2.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/import-cwd/-/import-cwd-2.1.0.tgz#aa6cf36e722761285cb371ec6519f53e2435b0a9"
+  resolved "https://registry.yarnpkg.com/import-cwd/-/import-cwd-2.1.0.tgz#aa6cf36e722761285cb371ec6519f53e2435b0a9"
   integrity sha1-qmzzbnInYShcs3HsZRn1PiQ1sKk=
   dependencies:
     import-from "^2.1.0"
 
 import-from@^2.1.0:
   version "2.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/import-from/-/import-from-2.1.0.tgz#335db7f2a7affd53aaa471d4b8021dee36b7f3b1"
+  resolved "https://registry.yarnpkg.com/import-from/-/import-from-2.1.0.tgz#335db7f2a7affd53aaa471d4b8021dee36b7f3b1"
   integrity sha1-M1238qev/VOqpHHUuAId7ja387E=
   dependencies:
     resolve-from "^3.0.0"
@@ -3568,7 +3568,7 @@ import-lazy@^2.1.0:
 
 import-local@^2.0.0:
   version "2.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/import-local/-/import-local-2.0.0.tgz#55070be38a5993cf18ef6db7e961f5bee5c5a09d"
+  resolved "https://registry.yarnpkg.com/import-local/-/import-local-2.0.0.tgz#55070be38a5993cf18ef6db7e961f5bee5c5a09d"
   integrity sha1-VQcL44pZk88Y72236WH1vuXFoJ0=
   dependencies:
     pkg-dir "^3.0.0"
@@ -3629,7 +3629,7 @@ injection-js@^2.2.1:
 
 internal-ip@^3.0.1:
   version "3.0.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/internal-ip/-/internal-ip-3.0.1.tgz#df5c99876e1d2eb2ea2d74f520e3f669a00ece27"
+  resolved "https://registry.yarnpkg.com/internal-ip/-/internal-ip-3.0.1.tgz#df5c99876e1d2eb2ea2d74f520e3f669a00ece27"
   integrity sha1-31yZh24dLrLqLXT1IOP2aaAOzic=
   dependencies:
     default-gateway "^2.6.0"
@@ -3647,12 +3647,12 @@ invert-kv@^1.0.0:
 
 invert-kv@^2.0.0:
   version "2.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/invert-kv/-/invert-kv-2.0.0.tgz#7393f5afa59ec9ff5f67a27620d11c226e3eec02"
+  resolved "https://registry.yarnpkg.com/invert-kv/-/invert-kv-2.0.0.tgz#7393f5afa59ec9ff5f67a27620d11c226e3eec02"
   integrity sha1-c5P1r6Weyf9fZ6J2INEcIm4+7AI=
 
 ip-regex@^2.1.0:
   version "2.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/ip-regex/-/ip-regex-2.1.0.tgz#fa78bf5d2e6913c911ce9f819ee5146bb6d844e9"
+  resolved "https://registry.yarnpkg.com/ip-regex/-/ip-regex-2.1.0.tgz#fa78bf5d2e6913c911ce9f819ee5146bb6d844e9"
   integrity sha1-+ni/XS5pE8kRzp+BnuUUa7bYROk=
 
 ip@^1.1.0, ip@^1.1.2, ip@^1.1.4, ip@^1.1.5:
@@ -3665,7 +3665,7 @@ ipaddr.js@1.6.0:
 
 ipaddr.js@^1.5.2:
   version "1.9.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/ipaddr.js/-/ipaddr.js-1.9.0.tgz#37df74e430a0e47550fe54a2defe30d8acd95f65"
+  resolved "https://registry.yarnpkg.com/ipaddr.js/-/ipaddr.js-1.9.0.tgz#37df74e430a0e47550fe54a2defe30d8acd95f65"
   integrity sha1-N9905DCg5HVQ/lSi3v4w2KzZX2U=
 
 is-accessor-descriptor@^0.1.6:
@@ -3990,7 +3990,7 @@ istanbul-api@^1.3.1:
 
 istanbul-instrumenter-loader@3.0.1:
   version "3.0.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/istanbul-instrumenter-loader/-/istanbul-instrumenter-loader-3.0.1.tgz#9957bd59252b373fae5c52b7b5188e6fde2a0949"
+  resolved "https://registry.yarnpkg.com/istanbul-instrumenter-loader/-/istanbul-instrumenter-loader-3.0.1.tgz#9957bd59252b373fae5c52b7b5188e6fde2a0949"
   integrity sha1-mVe9WSUrNz+uXFK3tRiOb94qCUk=
   dependencies:
     convert-source-map "^1.5.0"
@@ -4047,7 +4047,7 @@ istanbul-reports@^1.3.0:
 
 istanbul@0.4.5:
   version "0.4.5"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/istanbul/-/istanbul-0.4.5.tgz#65c7d73d4c4da84d4f3ac310b918fb0b8033733b"
+  resolved "https://registry.yarnpkg.com/istanbul/-/istanbul-0.4.5.tgz#65c7d73d4c4da84d4f3ac310b918fb0b8033733b"
   integrity sha1-ZcfXPUxNqE1POsMQuRj7C4Azczs=
   dependencies:
     abbrev "1.0.x"
@@ -4118,7 +4118,7 @@ js-yaml@3.x, js-yaml@^3.7.0:
 
 js-yaml@^3.9.0:
   version "3.12.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/js-yaml/-/js-yaml-3.12.2.tgz#ef1d067c5a9d9cb65bd72f285b5d8105c77f14fc"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.12.2.tgz#ef1d067c5a9d9cb65bd72f285b5d8105c77f14fc"
   integrity sha1-7x0GfFqdnLZb1y8oW12BBcd/FPw=
   dependencies:
     argparse "^1.0.7"
@@ -4138,7 +4138,7 @@ jsesc@~0.5.0:
 
 json-parse-better-errors@^1.0.0, json-parse-better-errors@^1.0.1, json-parse-better-errors@^1.0.2:
   version "1.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/json-parse-better-errors/-/json-parse-better-errors-1.0.2.tgz#bb867cfb3450e69107c131d1c514bab3dc8bcaa9"
+  resolved "https://registry.yarnpkg.com/json-parse-better-errors/-/json-parse-better-errors-1.0.2.tgz#bb867cfb3450e69107c131d1c514bab3dc8bcaa9"
   integrity sha1-u4Z8+zRQ5pEHwTHRxRS6s9yLyqk=
 
 json-schema-traverse@0.4.1, json-schema-traverse@^0.4.1:
@@ -4173,7 +4173,7 @@ jsonfile@^4.0.0:
 
 jsonparse@^1.2.0:
   version "1.3.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/jsonparse/-/jsonparse-1.3.1.tgz#3f4dae4a91fac315f71062f8521cc239f1366280"
+  resolved "https://registry.yarnpkg.com/jsonparse/-/jsonparse-1.3.1.tgz#3f4dae4a91fac315f71062f8521cc239f1366280"
   integrity sha1-P02uSpH6wxX3EGL4UhzCOfE2YoA=
 
 jsonpointer@^4.0.0:
@@ -4219,7 +4219,7 @@ karma-jasmine@~1.1.1:
 
 karma-source-map-support@1.3.0:
   version "1.3.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/karma-source-map-support/-/karma-source-map-support-1.3.0.tgz#36dd4d8ca154b62ace95696236fae37caf0a7dde"
+  resolved "https://registry.yarnpkg.com/karma-source-map-support/-/karma-source-map-support-1.3.0.tgz#36dd4d8ca154b62ace95696236fae37caf0a7dde"
   integrity sha1-Nt1NjKFUtirOlWliNvrjfK8Kfd4=
   dependencies:
     source-map-support "^0.5.5"
@@ -4304,14 +4304,14 @@ lcid@^1.0.0:
 
 lcid@^2.0.0:
   version "2.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/lcid/-/lcid-2.0.0.tgz#6ef5d2df60e52f82eb228a4c373e8d1f397253cf"
+  resolved "https://registry.yarnpkg.com/lcid/-/lcid-2.0.0.tgz#6ef5d2df60e52f82eb228a4c373e8d1f397253cf"
   integrity sha1-bvXS32DlL4LrIopMNz6NHzlyU88=
   dependencies:
     invert-kv "^2.0.0"
 
 less-loader@4.1.0:
   version "4.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/less-loader/-/less-loader-4.1.0.tgz#2c1352c5b09a4f84101490274fd51674de41363e"
+  resolved "https://registry.yarnpkg.com/less-loader/-/less-loader-4.1.0.tgz#2c1352c5b09a4f84101490274fd51674de41363e"
   integrity sha1-LBNSxbCaT4QQFJAnT9UWdN5BNj4=
   dependencies:
     clone "^2.1.1"
@@ -4320,7 +4320,7 @@ less-loader@4.1.0:
 
 less-plugin-npm-import@^2.1.0:
   version "2.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/less-plugin-npm-import/-/less-plugin-npm-import-2.1.0.tgz#823e6986c93318a98171ca858848b6bead55bf3e"
+  resolved "https://registry.yarnpkg.com/less-plugin-npm-import/-/less-plugin-npm-import-2.1.0.tgz#823e6986c93318a98171ca858848b6bead55bf3e"
   integrity sha1-gj5phskzGKmBccqFiEi2vq1Vvz4=
   dependencies:
     promise "~7.0.1"
@@ -4328,7 +4328,7 @@ less-plugin-npm-import@^2.1.0:
 
 less@3.8.1:
   version "3.8.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/less/-/less-3.8.1.tgz#f31758598ef5a1930dd4caefa9e4340641e71e1d"
+  resolved "https://registry.yarnpkg.com/less/-/less-3.8.1.tgz#f31758598ef5a1930dd4caefa9e4340641e71e1d"
   integrity sha1-8xdYWY71oZMN1MrvqeQ0BkHnHh0=
   dependencies:
     clone "^2.1.2"
@@ -4344,7 +4344,7 @@ less@3.8.1:
 
 less@^3.8.0:
   version "3.9.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/less/-/less-3.9.0.tgz#b7511c43f37cf57dc87dffd9883ec121289b1474"
+  resolved "https://registry.yarnpkg.com/less/-/less-3.9.0.tgz#b7511c43f37cf57dc87dffd9883ec121289b1474"
   integrity sha1-t1EcQ/N89X3Iff/ZiD7BISibFHQ=
   dependencies:
     clone "^2.1.2"
@@ -4383,7 +4383,7 @@ libqp@1.1.0:
 
 license-webpack-plugin@1.5.0:
   version "1.5.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/license-webpack-plugin/-/license-webpack-plugin-1.5.0.tgz#22ca0f12a884aee35bb61dfd8eab45fe36a04523"
+  resolved "https://registry.yarnpkg.com/license-webpack-plugin/-/license-webpack-plugin-1.5.0.tgz#22ca0f12a884aee35bb61dfd8eab45fe36a04523"
   integrity sha1-IsoPEqiEruNbth39jqtF/jagRSM=
   dependencies:
     ejs "^2.5.7"
@@ -4443,7 +4443,7 @@ locate-path@^2.0.0:
 
 locate-path@^3.0.0:
   version "3.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/locate-path/-/locate-path-3.0.0.tgz#dbec3b3ab759758071b58fe59fc41871af21400e"
+  resolved "https://registry.yarnpkg.com/locate-path/-/locate-path-3.0.0.tgz#dbec3b3ab759758071b58fe59fc41871af21400e"
   integrity sha1-2+w7OrdZdYBxtY/ln8QYca8hQA4=
   dependencies:
     p-locate "^3.0.0"
@@ -4475,7 +4475,7 @@ lodash@^4.0.0, lodash@^4.15.0, lodash@^4.17.10, lodash@^4.17.3, lodash@^4.17.4, 
 
 lodash@^4.17.11:
   version "4.17.11"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha1-s56mIp72B+zYniyN8SU2iRysm40=
 
 log4js@^2.5.3:
@@ -4511,7 +4511,7 @@ loglevel@^1.4.1:
 
 long@4.0.0:
   version "4.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/long/-/long-4.0.0.tgz#9a7b71cfb7d361a194ea555241c92f7468d5bf28"
+  resolved "https://registry.yarnpkg.com/long/-/long-4.0.0.tgz#9a7b71cfb7d361a194ea555241c92f7468d5bf28"
   integrity sha1-mntxz7fTYaGU6lVSQckvdGjVvyg=
 
 long@^3.2.0:
@@ -4556,7 +4556,7 @@ lru-cache@^4.0.1, lru-cache@^4.1.1, lru-cache@^4.1.2:
 
 lru-cache@^4.1.3:
   version "4.1.5"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/lru-cache/-/lru-cache-4.1.5.tgz#8bbe50ea85bed59bc9e33dcab8235ee9bcf443cd"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-4.1.5.tgz#8bbe50ea85bed59bc9e33dcab8235ee9bcf443cd"
   integrity sha1-i75Q6oW+1ZvJ4z3KuCNe6bz0Q80=
   dependencies:
     pseudomap "^1.0.2"
@@ -4564,7 +4564,7 @@ lru-cache@^4.1.3:
 
 lru-cache@^5.1.1:
   version "5.1.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/lru-cache/-/lru-cache-5.1.1.tgz#1da27e6710271947695daf6848e847f01d84b920"
+  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-5.1.1.tgz#1da27e6710271947695daf6848e847f01d84b920"
   integrity sha1-HaJ+ZxAnGUdpXa9oSOhH8B2EuSA=
   dependencies:
     yallist "^3.0.2"
@@ -4608,7 +4608,7 @@ make-error@^1.1.1:
 
 make-fetch-happen@^4.0.1:
   version "4.0.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/make-fetch-happen/-/make-fetch-happen-4.0.1.tgz#141497cb878f243ba93136c83d8aba12c216c083"
+  resolved "https://registry.yarnpkg.com/make-fetch-happen/-/make-fetch-happen-4.0.1.tgz#141497cb878f243ba93136c83d8aba12c216c083"
   integrity sha1-FBSXy4ePJDupMTbIPYq6EsIWwIM=
   dependencies:
     agentkeepalive "^3.4.1"
@@ -4625,12 +4625,12 @@ make-fetch-happen@^4.0.1:
 
 mamacro@^0.0.3:
   version "0.0.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/mamacro/-/mamacro-0.0.3.tgz#ad2c9576197c9f1abf308d0787865bd975a3f3e4"
+  resolved "https://registry.yarnpkg.com/mamacro/-/mamacro-0.0.3.tgz#ad2c9576197c9f1abf308d0787865bd975a3f3e4"
   integrity sha1-rSyVdhl8nxq/MI0Hh4Zb2XWj8+Q=
 
 map-age-cleaner@^0.1.1:
   version "0.1.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/map-age-cleaner/-/map-age-cleaner-0.1.3.tgz#7d583a7306434c055fe474b0f45078e6e1b4b92a"
+  resolved "https://registry.yarnpkg.com/map-age-cleaner/-/map-age-cleaner-0.1.3.tgz#7d583a7306434c055fe474b0f45078e6e1b4b92a"
   integrity sha1-fVg6cwZDTAVf5HSw9FB45uG0uSo=
   dependencies:
     p-defer "^1.0.0"
@@ -4670,7 +4670,7 @@ media-typer@0.3.0:
 
 mem@^4.0.0:
   version "4.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/mem/-/mem-4.1.0.tgz#aeb9be2d21f47e78af29e4ac5978e8afa2ca5b8a"
+  resolved "https://registry.yarnpkg.com/mem/-/mem-4.1.0.tgz#aeb9be2d21f47e78af29e4ac5978e8afa2ca5b8a"
   integrity sha1-rrm+LSH0fnivKeSsWXjor6LKW4o=
   dependencies:
     map-age-cleaner "^0.1.1"
@@ -4778,7 +4778,7 @@ mime-db@~1.33.0:
 
 mime-db@~1.38.0:
   version "1.38.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/mime-db/-/mime-db-1.38.0.tgz#1a2aab16da9eb167b49c6e4df2d9c68d63d8e2ad"
+  resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.38.0.tgz#1a2aab16da9eb167b49c6e4df2d9c68d63d8e2ad"
   integrity sha1-GiqrFtqesWe0nG5N8tnGjWPY4q0=
 
 mime-types@^2.1.11, mime-types@^2.1.12, mime-types@~2.1.17, mime-types@~2.1.18, mime-types@~2.1.7:
@@ -4789,7 +4789,7 @@ mime-types@^2.1.11, mime-types@^2.1.12, mime-types@~2.1.17, mime-types@~2.1.18, 
 
 mime-types@~2.1.19:
   version "2.1.22"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/mime-types/-/mime-types-2.1.22.tgz#fe6b355a190926ab7698c9a0556a11199b2199bd"
+  resolved "https://registry.yarnpkg.com/mime-types/-/mime-types-2.1.22.tgz#fe6b355a190926ab7698c9a0556a11199b2199bd"
   integrity sha1-/ms1WhkJJqt2mMmgVWoRGZshmb0=
   dependencies:
     mime-db "~1.38.0"
@@ -4808,7 +4808,7 @@ mime@^2.0.3:
 
 mime@^2.3.1:
   version "2.4.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/mime/-/mime-2.4.0.tgz#e051fd881358585f3279df333fe694da0bcffdd6"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-2.4.0.tgz#e051fd881358585f3279df333fe694da0bcffdd6"
   integrity sha1-4FH9iBNYWF8yed8zP+aU2gvP/dY=
 
 mimic-fn@^1.0.0:
@@ -4817,7 +4817,7 @@ mimic-fn@^1.0.0:
 
 mini-css-extract-plugin@0.4.4:
   version "0.4.4"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/mini-css-extract-plugin/-/mini-css-extract-plugin-0.4.4.tgz#c10410a004951bd3cedac1da69053940fccb625d"
+  resolved "https://registry.yarnpkg.com/mini-css-extract-plugin/-/mini-css-extract-plugin-0.4.4.tgz#c10410a004951bd3cedac1da69053940fccb625d"
   integrity sha1-wQQQoASVG9PO2sHaaQU5QPzLYl0=
   dependencies:
     loader-utils "^1.1.0"
@@ -4866,7 +4866,7 @@ minipass@^2.2.1, minipass@^2.3.3:
 
 minipass@^2.3.4, minipass@^2.3.5:
   version "2.3.5"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/minipass/-/minipass-2.3.5.tgz#cacebe492022497f656b0f0f51e2682a9ed2d848"
+  resolved "https://registry.yarnpkg.com/minipass/-/minipass-2.3.5.tgz#cacebe492022497f656b0f0f51e2682a9ed2d848"
   integrity sha1-ys6+SSAiSX9law8PUeJoKp7S2Eg=
   dependencies:
     safe-buffer "^5.1.2"
@@ -4880,7 +4880,7 @@ minizlib@^1.1.0:
 
 minizlib@^1.1.1:
   version "1.2.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/minizlib/-/minizlib-1.2.1.tgz#dd27ea6136243c7c880684e8672bb3a45fd9b614"
+  resolved "https://registry.yarnpkg.com/minizlib/-/minizlib-1.2.1.tgz#dd27ea6136243c7c880684e8672bb3a45fd9b614"
   integrity sha1-3SfqYTYkPHyIBoToZyuzpF/ZthQ=
   dependencies:
     minipass "^2.2.1"
@@ -4902,7 +4902,7 @@ mississippi@^2.0.0:
 
 mississippi@^3.0.0:
   version "3.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/mississippi/-/mississippi-3.0.0.tgz#ea0a3291f97e0b5e8776b363d5f0a12d94c67022"
+  resolved "https://registry.yarnpkg.com/mississippi/-/mississippi-3.0.0.tgz#ea0a3291f97e0b5e8776b363d5f0a12d94c67022"
   integrity sha1-6goykfl+C16HdrNj1fChLZTGcCI=
   dependencies:
     concat-stream "^1.5.0"
@@ -4953,7 +4953,7 @@ ms@2.0.0:
 
 ms@^2.0.0, ms@^2.1.1:
   version "2.1.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/ms/-/ms-2.1.1.tgz#30a5864eb3ebb0a66f2ebe6d727af06a09d86e0a"
+  resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.1.tgz#30a5864eb3ebb0a66f2ebe6d727af06a09d86e0a"
   integrity sha1-MKWGTrPrsKZvLr5tcnrwagnYbgo=
 
 multicast-dns-service-types@^1.1.0:
@@ -5013,7 +5013,7 @@ netmask@^1.0.6:
 
 ng-packagr@^4.1.0:
   version "4.7.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/ng-packagr/-/ng-packagr-4.7.1.tgz#a3e8fd2a7b70573a3a7759c4c57408a3b0e8ce11"
+  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-4.7.1.tgz#a3e8fd2a7b70573a3a7759c4c57408a3b0e8ce11"
   integrity sha1-o+j9KntwVzo6d1nExXQIo7DozhE=
   dependencies:
     "@ngtools/json-schema" "^1.1.0"
@@ -5047,7 +5047,7 @@ ng-packagr@^4.1.0:
 
 nice-try@^1.0.4:
   version "1.0.5"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
+  resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha1-ozeKdpbOfSI+iPybdkvX7xCJ42Y=
 
 no-case@^2.2.0:
@@ -5058,7 +5058,7 @@ no-case@^2.2.0:
 
 node-fetch-npm@^2.0.2:
   version "2.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/node-fetch-npm/-/node-fetch-npm-2.0.2.tgz#7258c9046182dca345b4208eda918daf33697ff7"
+  resolved "https://registry.yarnpkg.com/node-fetch-npm/-/node-fetch-npm-2.0.2.tgz#7258c9046182dca345b4208eda918daf33697ff7"
   integrity sha1-cljJBGGC3KNFtCCO2pGNrzNpf/c=
   dependencies:
     encoding "^0.1.11"
@@ -5071,7 +5071,7 @@ node-forge@0.7.5:
 
 node-gyp@^3.8.0:
   version "3.8.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/node-gyp/-/node-gyp-3.8.0.tgz#540304261c330e80d0d5edce253a68cb3964218c"
+  resolved "https://registry.yarnpkg.com/node-gyp/-/node-gyp-3.8.0.tgz#540304261c330e80d0d5edce253a68cb3964218c"
   integrity sha1-VAMEJhwzDoDQ1e3OJTpoyzlkIYw=
   dependencies:
     fstream "^1.0.0"
@@ -5132,7 +5132,7 @@ node-pre-gyp@^0.10.0:
 
 node-releases@^1.1.8:
   version "1.1.8"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/node-releases/-/node-releases-1.1.8.tgz#32a63fff63c5e51b7e0f540ac95947d220fc6862"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.8.tgz#32a63fff63c5e51b7e0f540ac95947d220fc6862"
   integrity sha1-MqY//2PF5Rt+D1QKyVlH0iD8aGI=
   dependencies:
     semver "^5.3.0"
@@ -5145,7 +5145,7 @@ node-sass-tilde-importer@^1.0.0:
 
 node-sass@^4.9.3:
   version "4.11.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/node-sass/-/node-sass-4.11.0.tgz#183faec398e9cbe93ba43362e2768ca988a6369a"
+  resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.11.0.tgz#183faec398e9cbe93ba43362e2768ca988a6369a"
   integrity sha1-GD+uw5jpy+k7pDNi4naMqYimNpo=
   dependencies:
     async-foreach "^0.1.3"
@@ -5245,7 +5245,7 @@ normalize-package-data@^2.3.2, normalize-package-data@^2.3.4, "normalize-package
 
 normalize-package-data@^2.4.0:
   version "2.5.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/normalize-package-data/-/normalize-package-data-2.5.0.tgz#e66db1838b200c1dfc233225d12cb36520e234a8"
+  resolved "https://registry.yarnpkg.com/normalize-package-data/-/normalize-package-data-2.5.0.tgz#e66db1838b200c1dfc233225d12cb36520e234a8"
   integrity sha1-5m2xg4sgDB38IzIl0SyzZSDiNKg=
   dependencies:
     hosted-git-info "^2.1.4"
@@ -5269,7 +5269,7 @@ npm-bundled@^1.0.1:
 
 npm-package-arg@6.1.0, "npm-package-arg@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0", npm-package-arg@^6.0.0, npm-package-arg@^6.1.0:
   version "6.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/npm-package-arg/-/npm-package-arg-6.1.0.tgz#15ae1e2758a5027efb4c250554b85a737db7fcc1"
+  resolved "https://registry.yarnpkg.com/npm-package-arg/-/npm-package-arg-6.1.0.tgz#15ae1e2758a5027efb4c250554b85a737db7fcc1"
   integrity sha1-Fa4eJ1ilAn77TCUFVLhac323/ME=
   dependencies:
     hosted-git-info "^2.6.0"
@@ -5279,7 +5279,7 @@ npm-package-arg@6.1.0, "npm-package-arg@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0", n
 
 npm-packlist@^1.1.12:
   version "1.4.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/npm-packlist/-/npm-packlist-1.4.1.tgz#19064cdf988da80ea3cee45533879d90192bbfbc"
+  resolved "https://registry.yarnpkg.com/npm-packlist/-/npm-packlist-1.4.1.tgz#19064cdf988da80ea3cee45533879d90192bbfbc"
   integrity sha1-GQZM35iNqA6jzuRVM4edkBkrv7w=
   dependencies:
     ignore-walk "^3.0.1"
@@ -5294,7 +5294,7 @@ npm-packlist@^1.1.6:
 
 npm-pick-manifest@^2.2.3:
   version "2.2.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/npm-pick-manifest/-/npm-pick-manifest-2.2.3.tgz#32111d2a9562638bb2c8f2bf27f7f3092c8fae40"
+  resolved "https://registry.yarnpkg.com/npm-pick-manifest/-/npm-pick-manifest-2.2.3.tgz#32111d2a9562638bb2c8f2bf27f7f3092c8fae40"
   integrity sha1-MhEdKpViY4uyyPK/J/fzCSyPrkA=
   dependencies:
     figgy-pudding "^3.5.1"
@@ -5303,7 +5303,7 @@ npm-pick-manifest@^2.2.3:
 
 npm-registry-client@8.6.0:
   version "8.6.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/npm-registry-client/-/npm-registry-client-8.6.0.tgz#7f1529f91450732e89f8518e0f21459deea3e4c4"
+  resolved "https://registry.yarnpkg.com/npm-registry-client/-/npm-registry-client-8.6.0.tgz#7f1529f91450732e89f8518e0f21459deea3e4c4"
   integrity sha1-fxUp+RRQcy6J+FGODyFFne6j5MQ=
   dependencies:
     concat-stream "^1.5.2"
@@ -5322,7 +5322,7 @@ npm-registry-client@8.6.0:
 
 npm-registry-fetch@^3.8.0:
   version "3.9.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/npm-registry-fetch/-/npm-registry-fetch-3.9.0.tgz#44d841780e2833f06accb34488f8c7450d1a6856"
+  resolved "https://registry.yarnpkg.com/npm-registry-fetch/-/npm-registry-fetch-3.9.0.tgz#44d841780e2833f06accb34488f8c7450d1a6856"
   integrity sha1-RNhBeA4oM/BqzLNEiPjHRQ0aaFY=
   dependencies:
     JSONStream "^1.3.4"
@@ -5371,7 +5371,7 @@ oauth-sign@~0.8.1, oauth-sign@~0.8.2:
 
 oauth-sign@~0.9.0:
   version "0.9.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/oauth-sign/-/oauth-sign-0.9.0.tgz#47a7b016baa68b5fa0ecf3dee08a85c679ac6455"
+  resolved "https://registry.yarnpkg.com/oauth-sign/-/oauth-sign-0.9.0.tgz#47a7b016baa68b5fa0ecf3dee08a85c679ac6455"
   integrity sha1-R6ewFrqmi1+g7PPe4IqFxnmsZFU=
 
 object-assign@^4.0.1, object-assign@^4.1.0:
@@ -5442,12 +5442,12 @@ once@1.x, once@^1.3.0, once@^1.3.1, once@^1.3.3, once@^1.4.0:
 
 opencollective-postinstall@^2.0.1:
   version "2.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/opencollective-postinstall/-/opencollective-postinstall-2.0.2.tgz#5657f1bede69b6e33a45939b061eb53d3c6c3a89"
+  resolved "https://registry.yarnpkg.com/opencollective-postinstall/-/opencollective-postinstall-2.0.2.tgz#5657f1bede69b6e33a45939b061eb53d3c6c3a89"
   integrity sha1-Vlfxvt5ptuM6RZObBh61PTxsOok=
 
 opn@5.4.0:
   version "5.4.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/opn/-/opn-5.4.0.tgz#cb545e7aab78562beb11aa3bfabc7042e1761035"
+  resolved "https://registry.yarnpkg.com/opn/-/opn-5.4.0.tgz#cb545e7aab78562beb11aa3bfabc7042e1761035"
   integrity sha1-y1Reeqt4VivrEao7+rxwQuF2EDU=
   dependencies:
     is-wsl "^1.1.0"
@@ -5482,7 +5482,7 @@ options@>=0.0.5:
 
 original@^1.0.0:
   version "1.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/original/-/original-1.0.2.tgz#e442a61cffe1c5fd20a65f3261c26663b303f25f"
+  resolved "https://registry.yarnpkg.com/original/-/original-1.0.2.tgz#e442a61cffe1c5fd20a65f3261c26663b303f25f"
   integrity sha1-5EKmHP/hxf0gpl8yYcJmY7MD8l8=
   dependencies:
     url-parse "^1.4.3"
@@ -5503,7 +5503,7 @@ os-locale@^1.4.0:
 
 os-locale@^3.0.0:
   version "3.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/os-locale/-/os-locale-3.1.0.tgz#a802a6ee17f24c10483ab9935719cef4ed16bf1a"
+  resolved "https://registry.yarnpkg.com/os-locale/-/os-locale-3.1.0.tgz#a802a6ee17f24c10483ab9935719cef4ed16bf1a"
   integrity sha1-qAKm7hfyTBBIOrmTVxnO9O0Wvxo=
   dependencies:
     execa "^1.0.0"
@@ -5523,7 +5523,7 @@ osenv@0, osenv@^0.1.4, osenv@^0.1.5:
 
 p-defer@^1.0.0:
   version "1.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/p-defer/-/p-defer-1.0.0.tgz#9f6eb182f6c9aa8cd743004a7d4f96b196b0fb0c"
+  resolved "https://registry.yarnpkg.com/p-defer/-/p-defer-1.0.0.tgz#9f6eb182f6c9aa8cd743004a7d4f96b196b0fb0c"
   integrity sha1-n26xgvbJqozXQwBKfU+WsZaw+ww=
 
 p-finally@^1.0.0:
@@ -5532,7 +5532,7 @@ p-finally@^1.0.0:
 
 p-is-promise@^2.0.0:
   version "2.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/p-is-promise/-/p-is-promise-2.0.0.tgz#7554e3d572109a87e1f3f53f6a7d85d1b194f4c5"
+  resolved "https://registry.yarnpkg.com/p-is-promise/-/p-is-promise-2.0.0.tgz#7554e3d572109a87e1f3f53f6a7d85d1b194f4c5"
   integrity sha1-dVTj1XIQmofh8/U/an2F0bGU9MU=
 
 p-limit@^1.0.0, p-limit@^1.1.0:
@@ -5543,7 +5543,7 @@ p-limit@^1.0.0, p-limit@^1.1.0:
 
 p-limit@^2.0.0:
   version "2.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/p-limit/-/p-limit-2.1.0.tgz#1d5a0d20fb12707c758a655f6bbc4386b5930d68"
+  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.1.0.tgz#1d5a0d20fb12707c758a655f6bbc4386b5930d68"
   integrity sha1-HVoNIPsScHx1imVfa7xDhrWTDWg=
   dependencies:
     p-try "^2.0.0"
@@ -5556,7 +5556,7 @@ p-locate@^2.0.0:
 
 p-locate@^3.0.0:
   version "3.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/p-locate/-/p-locate-3.0.0.tgz#322d69a05c0264b25997d9f40cd8a891ab0064a4"
+  resolved "https://registry.yarnpkg.com/p-locate/-/p-locate-3.0.0.tgz#322d69a05c0264b25997d9f40cd8a891ab0064a4"
   integrity sha1-Mi1poFwCZLJZl9n0DNiokasAZKQ=
   dependencies:
     p-limit "^2.0.0"
@@ -5571,7 +5571,7 @@ p-try@^1.0.0:
 
 p-try@^2.0.0:
   version "2.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/p-try/-/p-try-2.0.0.tgz#85080bb87c64688fa47996fe8f7dfbe8211760b1"
+  resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.0.0.tgz#85080bb87c64688fa47996fe8f7dfbe8211760b1"
   integrity sha1-hQgLuHxkaI+keZb+j3376CEXYLE=
 
 pac-proxy-agent@^2.0.1:
@@ -5608,7 +5608,7 @@ package-json@^4.0.0:
 
 pacote@9.2.3:
   version "9.2.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/pacote/-/pacote-9.2.3.tgz#48cfe87beb9177acd6594355a584a538835424b3"
+  resolved "https://registry.yarnpkg.com/pacote/-/pacote-9.2.3.tgz#48cfe87beb9177acd6594355a584a538835424b3"
   integrity sha1-SM/oe+uRd6zWWUNVpYSlOINUJLM=
   dependencies:
     bluebird "^3.5.2"
@@ -5691,7 +5691,7 @@ parse-json@^4.0.0:
 
 parse5@4.0.0:
   version "4.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/parse5/-/parse5-4.0.0.tgz#6d78656e3da8d78b4ec0b906f7c08ef1dfe3f608"
+  resolved "https://registry.yarnpkg.com/parse5/-/parse5-4.0.0.tgz#6d78656e3da8d78b4ec0b906f7c08ef1dfe3f608"
   integrity sha1-bXhlbj2o14tOwLkG98CO8d/j9gg=
 
 parseqs@0.0.5:
@@ -5750,7 +5750,7 @@ path-parse@^1.0.5:
 
 path-parse@^1.0.6:
   version "1.0.6"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
   integrity sha1-1i27VnlAXXLEc37FhgDp3c8G0kw=
 
 path-proxy@~1.0.0:
@@ -5817,14 +5817,14 @@ pkg-dir@^2.0.0:
 
 pkg-dir@^3.0.0:
   version "3.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/pkg-dir/-/pkg-dir-3.0.0.tgz#2749020f239ed990881b1f71210d51eb6523bea3"
+  resolved "https://registry.yarnpkg.com/pkg-dir/-/pkg-dir-3.0.0.tgz#2749020f239ed990881b1f71210d51eb6523bea3"
   integrity sha1-J0kCDyOe2ZCIGx9xIQ1R62UjvqM=
   dependencies:
     find-up "^3.0.0"
 
 portfinder@1.0.19:
   version "1.0.19"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/portfinder/-/portfinder-1.0.19.tgz#07e87914a55242dcda5b833d42f018d6875b595f"
+  resolved "https://registry.yarnpkg.com/portfinder/-/portfinder-1.0.19.tgz#07e87914a55242dcda5b833d42f018d6875b595f"
   integrity sha1-B+h5FKVSQtzaW4M9QvAY1odbWV8=
   dependencies:
     async "^1.5.2"
@@ -5845,7 +5845,7 @@ posix-character-classes@^0.1.0:
 
 postcss-import@11.1.0:
   version "11.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/postcss-import/-/postcss-import-11.1.0.tgz#55c9362c9192994ec68865d224419df1db2981f0"
+  resolved "https://registry.yarnpkg.com/postcss-import/-/postcss-import-11.1.0.tgz#55c9362c9192994ec68865d224419df1db2981f0"
   integrity sha1-Vck2LJGSmU7GiGXSJEGd8dspgfA=
   dependencies:
     postcss "^6.0.1"
@@ -5855,7 +5855,7 @@ postcss-import@11.1.0:
 
 postcss-load-config@^2.0.0:
   version "2.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/postcss-load-config/-/postcss-load-config-2.0.0.tgz#f1312ddbf5912cd747177083c5ef7a19d62ee484"
+  resolved "https://registry.yarnpkg.com/postcss-load-config/-/postcss-load-config-2.0.0.tgz#f1312ddbf5912cd747177083c5ef7a19d62ee484"
   integrity sha1-8TEt2/WRLNdHF3CDxe96GdYu5IQ=
   dependencies:
     cosmiconfig "^4.0.0"
@@ -5863,7 +5863,7 @@ postcss-load-config@^2.0.0:
 
 postcss-loader@2.1.6:
   version "2.1.6"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/postcss-loader/-/postcss-loader-2.1.6.tgz#1d7dd7b17c6ba234b9bed5af13e0bea40a42d740"
+  resolved "https://registry.yarnpkg.com/postcss-loader/-/postcss-loader-2.1.6.tgz#1d7dd7b17c6ba234b9bed5af13e0bea40a42d740"
   integrity sha1-HX3XsXxrojS5vtWvE+C+pApC10A=
   dependencies:
     loader-utils "^1.1.0"
@@ -5873,7 +5873,7 @@ postcss-loader@2.1.6:
 
 postcss-url@7.3.2:
   version "7.3.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/postcss-url/-/postcss-url-7.3.2.tgz#5fea273807fb84b38c461c3c9a9e8abd235f7120"
+  resolved "https://registry.yarnpkg.com/postcss-url/-/postcss-url-7.3.2.tgz#5fea273807fb84b38c461c3c9a9e8abd235f7120"
   integrity sha1-X+onOAf7hLOMRhw8mp6KvSNfcSA=
   dependencies:
     mime "^1.4.1"
@@ -5884,7 +5884,7 @@ postcss-url@7.3.2:
 
 postcss-url@^8.0.0:
   version "8.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/postcss-url/-/postcss-url-8.0.0.tgz#7b10059bd12929cdbb1971c60f61a0e5af86b4ca"
+  resolved "https://registry.yarnpkg.com/postcss-url/-/postcss-url-8.0.0.tgz#7b10059bd12929cdbb1971c60f61a0e5af86b4ca"
   integrity sha1-exAFm9EpKc27GXHGD2Gg5a+GtMo=
   dependencies:
     mime "^2.3.1"
@@ -5899,7 +5899,7 @@ postcss-value-parser@^3.2.3:
 
 postcss-value-parser@^3.3.1:
   version "3.3.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz#9ff822547e2893213cf1c30efa51ac5fd1ba8281"
+  resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz#9ff822547e2893213cf1c30efa51ac5fd1ba8281"
   integrity sha1-n/giVH4okyE88cMO+lGsX9G6goE=
 
 postcss@6.0.23, postcss@^6.0.0, postcss@^6.0.1, postcss@^6.0.23:
@@ -5912,7 +5912,7 @@ postcss@6.0.23, postcss@^6.0.0, postcss@^6.0.1, postcss@^6.0.23:
 
 postcss@^7.0.0, postcss@^7.0.14, postcss@^7.0.2:
   version "7.0.14"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/postcss/-/postcss-7.0.14.tgz#4527ed6b1ca0d82c53ce5ec1a2041c2346bbd6e5"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.14.tgz#4527ed6b1ca0d82c53ce5ec1a2041c2346bbd6e5"
   integrity sha1-RSftaxyg2CxTzl7BogQcI0a71uU=
   dependencies:
     chalk "^2.4.2"
@@ -5956,7 +5956,7 @@ promise-inflight@^1.0.1:
 
 promise-retry@^1.1.1:
   version "1.1.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/promise-retry/-/promise-retry-1.1.1.tgz#6739e968e3051da20ce6497fb2b50f6911df3d6d"
+  resolved "https://registry.yarnpkg.com/promise-retry/-/promise-retry-1.1.1.tgz#6739e968e3051da20ce6497fb2b50f6911df3d6d"
   integrity sha1-ZznpaOMFHaIM5kl/srUPaRHfPW0=
   dependencies:
     err-code "^1.0.0"
@@ -5970,7 +5970,7 @@ promise@^7.1.1:
 
 promise@~7.0.1:
   version "7.0.4"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/promise/-/promise-7.0.4.tgz#363e84a4c36c8356b890fed62c91ce85d02ed539"
+  resolved "https://registry.yarnpkg.com/promise/-/promise-7.0.4.tgz#363e84a4c36c8356b890fed62c91ce85d02ed539"
   integrity sha1-Nj6EpMNsg1a4kP7WLJHOhdAu1Tk=
   dependencies:
     asap "~2.0.3"
@@ -5983,7 +5983,7 @@ promisify-call@^2.0.2:
 
 protoduck@^5.0.1:
   version "5.0.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/protoduck/-/protoduck-5.0.1.tgz#03c3659ca18007b69a50fd82a7ebcc516261151f"
+  resolved "https://registry.yarnpkg.com/protoduck/-/protoduck-5.0.1.tgz#03c3659ca18007b69a50fd82a7ebcc516261151f"
   integrity sha1-A8NlnKGAB7aaUP2Cp+vMUWJhFR8=
   dependencies:
     genfun "^5.0.0"
@@ -6042,7 +6042,7 @@ pseudomap@^1.0.2:
 
 psl@^1.1.24:
   version "1.1.31"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/psl/-/psl-1.1.31.tgz#e9aa86d0101b5b105cbe93ac6b784cd547276184"
+  resolved "https://registry.yarnpkg.com/psl/-/psl-1.1.31.tgz#e9aa86d0101b5b105cbe93ac6b784cd547276184"
   integrity sha1-6aqG0BAbWxBcvpOsa3hM1UcnYYQ=
 
 public-encrypt@^4.0.0:
@@ -6064,7 +6064,7 @@ pump@^2.0.0, pump@^2.0.1:
 
 pump@^3.0.0:
   version "3.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/pump/-/pump-3.0.0.tgz#b4a2116815bde2f4e1ea602354e8c75565107a64"
+  resolved "https://registry.yarnpkg.com/pump/-/pump-3.0.0.tgz#b4a2116815bde2f4e1ea602354e8c75565107a64"
   integrity sha1-tKIRaBW94vTh6mAjVOjHVWUQemQ=
   dependencies:
     end-of-stream "^1.1.0"
@@ -6175,7 +6175,7 @@ raw-body@2.3.3, raw-body@^2.2.0:
 
 raw-loader@0.5.1:
   version "0.5.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/raw-loader/-/raw-loader-0.5.1.tgz#0c3d0beaed8a01c966d9787bf778281252a979aa"
+  resolved "https://registry.yarnpkg.com/raw-loader/-/raw-loader-0.5.1.tgz#0c3d0beaed8a01c966d9787bf778281252a979aa"
   integrity sha1-DD0L6u2KAclm2Xh793goElKpeao=
 
 rc@^1.0.1, rc@^1.1.6, rc@^1.2.7:
@@ -6209,7 +6209,7 @@ read-pkg-up@^3.0.0:
 
 read-pkg-up@^4.0.0:
   version "4.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/read-pkg-up/-/read-pkg-up-4.0.0.tgz#1b221c6088ba7799601c808f91161c66e58f8978"
+  resolved "https://registry.yarnpkg.com/read-pkg-up/-/read-pkg-up-4.0.0.tgz#1b221c6088ba7799601c808f91161c66e58f8978"
   integrity sha1-GyIcYIi6d5lgHICPkRYcZuWPiXg=
   dependencies:
     find-up "^3.0.0"
@@ -6263,7 +6263,7 @@ readable-stream@1.1.x, "readable-stream@1.x >=1.1.9":
 
 readable-stream@^3.0.6:
   version "3.1.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/readable-stream/-/readable-stream-3.1.1.tgz#ed6bbc6c5ba58b090039ff18ce670515795aeb06"
+  resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-3.1.1.tgz#ed6bbc6c5ba58b090039ff18ce670515795aeb06"
   integrity sha1-7Wu8bFuliwkAOf8YzmcFFXla6wY=
   dependencies:
     inherits "^2.0.3"
@@ -6465,7 +6465,7 @@ request@^2.0.0, request@^2.74.0, request@^2.83.0, request@^2.87.0:
 
 request@^2.88.0:
   version "2.88.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
+  resolved "https://registry.yarnpkg.com/request/-/request-2.88.0.tgz#9c2fca4f7d35b592efe57c7f0a55e81052124fef"
   integrity sha1-nC/KT301tZLv5Xx/ClXoEFIST+8=
   dependencies:
     aws-sign2 "~0.7.0"
@@ -6504,7 +6504,7 @@ require-directory@^2.1.1:
 
 require-from-string@^2.0.1:
   version "2.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/require-from-string/-/require-from-string-2.0.2.tgz#89a7fdd938261267318eafe14f9c32e598c36909"
+  resolved "https://registry.yarnpkg.com/require-from-string/-/require-from-string-2.0.2.tgz#89a7fdd938261267318eafe14f9c32e598c36909"
   integrity sha1-iaf92TgmEmcxjq/hT5wy5ZjDaQk=
 
 require-main-filename@^1.0.1:
@@ -6541,7 +6541,7 @@ resolve@^1.1.7, resolve@^1.3.2, resolve@^1.5.0:
 
 resolve@^1.10.0:
   version "1.10.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/resolve/-/resolve-1.10.0.tgz#3bdaaeaf45cc07f375656dfd2e54ed0810b101ba"
+  resolved "https://registry.yarnpkg.com/resolve/-/resolve-1.10.0.tgz#3bdaaeaf45cc07f375656dfd2e54ed0810b101ba"
   integrity sha1-O9qur0XMB/N1ZW39LlTtCBCxAbo=
   dependencies:
     path-parse "^1.0.6"
@@ -6584,14 +6584,14 @@ rollup-plugin-commonjs@^9.1.3:
 
 rollup-plugin-json@^3.1.0:
   version "3.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/rollup-plugin-json/-/rollup-plugin-json-3.1.0.tgz#7c1daf60c46bc21021ea016bd00863561a03321b"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-json/-/rollup-plugin-json-3.1.0.tgz#7c1daf60c46bc21021ea016bd00863561a03321b"
   integrity sha1-fB2vYMRrwhAh6gFr0AhjVhoDMhs=
   dependencies:
     rollup-pluginutils "^2.3.1"
 
 rollup-plugin-node-resolve@^4.0.0:
   version "4.0.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/rollup-plugin-node-resolve/-/rollup-plugin-node-resolve-4.0.1.tgz#f95765d174e5daeef9ea6268566141f53aa9d422"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-node-resolve/-/rollup-plugin-node-resolve-4.0.1.tgz#f95765d174e5daeef9ea6268566141f53aa9d422"
   integrity sha1-+Vdl0XTl2u756mJoVmFB9Tqp1CI=
   dependencies:
     builtin-modules "^3.0.0"
@@ -6614,7 +6614,7 @@ rollup-pluginutils@^2.0.1:
 
 rollup-pluginutils@^2.3.1:
   version "2.4.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/rollup-pluginutils/-/rollup-pluginutils-2.4.1.tgz#de43ab54965bbf47843599a7f3adceb723de38db"
+  resolved "https://registry.yarnpkg.com/rollup-pluginutils/-/rollup-pluginutils-2.4.1.tgz#de43ab54965bbf47843599a7f3adceb723de38db"
   integrity sha1-3kOrVJZbv0eENZmn863OtyPeONs=
   dependencies:
     estree-walker "^0.6.0"
@@ -6622,7 +6622,7 @@ rollup-pluginutils@^2.3.1:
 
 rollup@^0.67.0:
   version "0.67.4"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/rollup/-/rollup-0.67.4.tgz#8ed6b0993337f84ec8a0387f824fa6c197e833ec"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-0.67.4.tgz#8ed6b0993337f84ec8a0387f824fa6c197e833ec"
   integrity sha1-jtawmTM3+E7IoDh/gk+mwZfoM+w=
   dependencies:
     "@types/estree" "0.0.39"
@@ -6636,7 +6636,7 @@ run-queue@^1.0.0, run-queue@^1.0.3:
 
 rxjs@6.2.2:
   version "6.2.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/rxjs/-/rxjs-6.2.2.tgz#eb75fa3c186ff5289907d06483a77884586e1cf9"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.2.2.tgz#eb75fa3c186ff5289907d06483a77884586e1cf9"
   integrity sha1-63X6PBhv9SiZB9Bkg6d4hFhuHPk=
   dependencies:
     tslib "^1.9.0"
@@ -6676,7 +6676,7 @@ sass-graph@^2.2.4:
 
 sass-loader@7.1.0:
   version "7.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/sass-loader/-/sass-loader-7.1.0.tgz#16fd5138cb8b424bf8a759528a1972d72aad069d"
+  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-7.1.0.tgz#16fd5138cb8b424bf8a759528a1972d72aad069d"
   integrity sha1-Fv1ROMuLQkv4p1lSihly1yqtBp0=
   dependencies:
     clone-deep "^2.0.1"
@@ -6719,7 +6719,7 @@ schema-utils@^0.4.0, schema-utils@^0.4.4, schema-utils@^0.4.5:
 
 schema-utils@^1.0.0:
   version "1.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/schema-utils/-/schema-utils-1.0.0.tgz#0b79a93204d7b600d4b2850d1f66c2a34951c770"
+  resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-1.0.0.tgz#0b79a93204d7b600d4b2850d1f66c2a34951c770"
   integrity sha1-C3mpMgTXtgDUsoUNH2bCo0lRx3A=
   dependencies:
     ajv "^6.1.0"
@@ -6776,7 +6776,7 @@ semver-dsl@^1.0.1:
 
 semver-intersect@1.4.0:
   version "1.4.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/semver-intersect/-/semver-intersect-1.4.0.tgz#bdd9c06bedcdd2fedb8cd352c3c43ee8c61321f3"
+  resolved "https://registry.yarnpkg.com/semver-intersect/-/semver-intersect-1.4.0.tgz#bdd9c06bedcdd2fedb8cd352c3c43ee8c61321f3"
   integrity sha1-vdnAa+3N0v7bjNNSw8Q+6MYTIfM=
   dependencies:
     semver "^5.0.0"
@@ -6787,7 +6787,7 @@ semver-intersect@1.4.0:
 
 semver@5.6.0, semver@^5.4.1, semver@^5.6.0:
   version "5.6.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/semver/-/semver-5.6.0.tgz#7e74256fbaa49c75aa7c7a205cc22799cac80004"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-5.6.0.tgz#7e74256fbaa49c75aa7c7a205cc22799cac80004"
   integrity sha1-fnQlb7qknHWqfHogXMInmcrIAAQ=
 
 semver@~5.3.0:
@@ -6920,7 +6920,7 @@ slide@^1.1.3:
 
 smart-buffer@4.0.2:
   version "4.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/smart-buffer/-/smart-buffer-4.0.2.tgz#5207858c3815cc69110703c6b94e46c15634395d"
+  resolved "https://registry.yarnpkg.com/smart-buffer/-/smart-buffer-4.0.2.tgz#5207858c3815cc69110703c6b94e46c15634395d"
   integrity sha1-UgeFjDgVzGkRBwPGuU5GwVY0OV0=
 
 smart-buffer@^1.0.13, smart-buffer@^1.0.4:
@@ -7010,7 +7010,7 @@ socket.io@2.0.4:
 
 sockjs-client@1.3.0:
   version "1.3.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/sockjs-client/-/sockjs-client-1.3.0.tgz#12fc9d6cb663da5739d3dc5fb6e8687da95cb177"
+  resolved "https://registry.yarnpkg.com/sockjs-client/-/sockjs-client-1.3.0.tgz#12fc9d6cb663da5739d3dc5fb6e8687da95cb177"
   integrity sha1-EvydbLZj2lc509xftuhofalcsXc=
   dependencies:
     debug "^3.2.5"
@@ -7036,7 +7036,7 @@ socks-proxy-agent@^3.0.0:
 
 socks-proxy-agent@^4.0.0:
   version "4.0.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/socks-proxy-agent/-/socks-proxy-agent-4.0.1.tgz#5936bf8b707a993079c6f37db2091821bffa6473"
+  resolved "https://registry.yarnpkg.com/socks-proxy-agent/-/socks-proxy-agent-4.0.1.tgz#5936bf8b707a993079c6f37db2091821bffa6473"
   integrity sha1-WTa/i3B6mTB5xvN9sgkYIb/6ZHM=
   dependencies:
     agent-base "~4.2.0"
@@ -7058,7 +7058,7 @@ socks@^1.1.10:
 
 socks@~2.2.0:
   version "2.2.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/socks/-/socks-2.2.3.tgz#7399ce11e19b2a997153c983a9ccb6306721f2dc"
+  resolved "https://registry.yarnpkg.com/socks/-/socks-2.2.3.tgz#7399ce11e19b2a997153c983a9ccb6306721f2dc"
   integrity sha1-c5nOEeGbKplxU8mDqcy2MGch8tw=
   dependencies:
     ip "^1.1.5"
@@ -7074,7 +7074,7 @@ source-list-map@~0.1.7:
 
 source-map-loader@0.2.4:
   version "0.2.4"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/source-map-loader/-/source-map-loader-0.2.4.tgz#c18b0dc6e23bf66f6792437557c569a11e072271"
+  resolved "https://registry.yarnpkg.com/source-map-loader/-/source-map-loader-0.2.4.tgz#c18b0dc6e23bf66f6792437557c569a11e072271"
   integrity sha1-wYsNxuI79m9nkkN1V8VpoR4HInE=
   dependencies:
     async "^2.5.0"
@@ -7092,7 +7092,7 @@ source-map-resolve@^0.5.0:
 
 source-map-support@0.5.9:
   version "0.5.9"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/source-map-support/-/source-map-support-0.5.9.tgz#41bc953b2534267ea2d605bccfa7bfa3111ced5f"
+  resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.9.tgz#41bc953b2534267ea2d605bccfa7bfa3111ced5f"
   integrity sha1-QbyVOyU0Jn6i1gW8z6e/oxEc7V8=
   dependencies:
     buffer-from "^1.0.0"
@@ -7165,7 +7165,7 @@ spdx-license-ids@^3.0.0:
 
 spdy-transport@^3.0.0:
   version "3.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/spdy-transport/-/spdy-transport-3.0.0.tgz#00d4863a6400ad75df93361a1608605e5dcdcf31"
+  resolved "https://registry.yarnpkg.com/spdy-transport/-/spdy-transport-3.0.0.tgz#00d4863a6400ad75df93361a1608605e5dcdcf31"
   integrity sha1-ANSGOmQArXXfkzYaFghgXl3NzzE=
   dependencies:
     debug "^4.1.0"
@@ -7177,7 +7177,7 @@ spdy-transport@^3.0.0:
 
 spdy@^4.0.0:
   version "4.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/spdy/-/spdy-4.0.0.tgz#81f222b5a743a329aa12cea6a390e60e9b613c52"
+  resolved "https://registry.yarnpkg.com/spdy/-/spdy-4.0.0.tgz#81f222b5a743a329aa12cea6a390e60e9b613c52"
   integrity sha1-gfIitadDoymqEs6mo5DmDpthPFI=
   dependencies:
     debug "^4.1.0"
@@ -7223,7 +7223,7 @@ ssri@^5.2.4:
 
 ssri@^6.0.0, ssri@^6.0.1:
   version "6.0.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
   integrity sha1-KjxBso3UW2K2Nnbst0ABJlrp7dg=
   dependencies:
     figgy-pudding "^3.5.1"
@@ -7237,7 +7237,7 @@ static-extend@^0.1.1:
 
 stats-webpack-plugin@0.6.2:
   version "0.6.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/stats-webpack-plugin/-/stats-webpack-plugin-0.6.2.tgz#2c5949b531e07f87a88e6ea4dcfac53aa8c75a2b"
+  resolved "https://registry.yarnpkg.com/stats-webpack-plugin/-/stats-webpack-plugin-0.6.2.tgz#2c5949b531e07f87a88e6ea4dcfac53aa8c75a2b"
   integrity sha1-LFlJtTHgf4eojm6k3PrFOqjHWis=
   dependencies:
     lodash "^4.17.4"
@@ -7320,7 +7320,7 @@ string_decoder@^1.0.0, string_decoder@~1.1.1:
 
 string_decoder@^1.1.1:
   version "1.2.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/string_decoder/-/string_decoder-1.2.0.tgz#fe86e738b19544afe70469243b2a1ee9240eae8d"
+  resolved "https://registry.yarnpkg.com/string_decoder/-/string_decoder-1.2.0.tgz#fe86e738b19544afe70469243b2a1ee9240eae8d"
   integrity sha1-/obnOLGVRK/nBGkkOyoe6SQOro0=
   dependencies:
     safe-buffer "~5.1.0"
@@ -7375,7 +7375,7 @@ strip-json-comments@~2.0.1:
 
 style-loader@0.21.0:
   version "0.21.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/style-loader/-/style-loader-0.21.0.tgz#68c52e5eb2afc9ca92b6274be277ee59aea3a852"
+  resolved "https://registry.yarnpkg.com/style-loader/-/style-loader-0.21.0.tgz#68c52e5eb2afc9ca92b6274be277ee59aea3a852"
   integrity sha1-aMUuXrKvycqStidL4nfuWa6jqFI=
   dependencies:
     loader-utils "^1.1.0"
@@ -7383,7 +7383,7 @@ style-loader@0.21.0:
 
 stylus-loader@3.0.2:
   version "3.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/stylus-loader/-/stylus-loader-3.0.2.tgz#27a706420b05a38e038e7cacb153578d450513c6"
+  resolved "https://registry.yarnpkg.com/stylus-loader/-/stylus-loader-3.0.2.tgz#27a706420b05a38e038e7cacb153578d450513c6"
   integrity sha1-J6cGQgsFo44DjnyssVNXjUUFE8Y=
   dependencies:
     loader-utils "^1.0.2"
@@ -7392,7 +7392,7 @@ stylus-loader@3.0.2:
 
 stylus@0.54.5, stylus@^0.54.5:
   version "0.54.5"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/stylus/-/stylus-0.54.5.tgz#42b9560931ca7090ce8515a798ba9e6aa3d6dc79"
+  resolved "https://registry.yarnpkg.com/stylus/-/stylus-0.54.5.tgz#42b9560931ca7090ce8515a798ba9e6aa3d6dc79"
   integrity sha1-QrlWCTHKcJDOhRWnmLqeaqPW3Hk=
   dependencies:
     css-parse "1.7.x"
@@ -7420,14 +7420,14 @@ supports-color@^5.1.0, supports-color@^5.3.0, supports-color@^5.4.0:
 
 supports-color@^6.1.0:
   version "6.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/supports-color/-/supports-color-6.1.0.tgz#0764abc69c63d5ac842dd4867e8d025e880df8f3"
+  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-6.1.0.tgz#0764abc69c63d5ac842dd4867e8d025e880df8f3"
   integrity sha1-B2Srxpxj1ayELdSGfo0CXogN+PM=
   dependencies:
     has-flag "^3.0.0"
 
 symbol-observable@1.2.0:
   version "1.2.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/symbol-observable/-/symbol-observable-1.2.0.tgz#c22688aed4eab3cdc2dfeacbb561660560a00804"
+  resolved "https://registry.yarnpkg.com/symbol-observable/-/symbol-observable-1.2.0.tgz#c22688aed4eab3cdc2dfeacbb561660560a00804"
   integrity sha1-wiaIrtTqs83C3+rLtWFmBWCgCAQ=
 
 tapable@^1.0.0:
@@ -7456,7 +7456,7 @@ tar@^4:
 
 tar@^4.4.6:
   version "4.4.8"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/tar/-/tar-4.4.8.tgz#b19eec3fde2a96e64666df9fdb40c5ca1bc3747d"
+  resolved "https://registry.yarnpkg.com/tar/-/tar-4.4.8.tgz#b19eec3fde2a96e64666df9fdb40c5ca1bc3747d"
   integrity sha1-sZ7sP94qluZGZt+f20DFyhvDdH0=
   dependencies:
     chownr "^1.1.1"
@@ -7482,7 +7482,7 @@ through2@^2.0.0:
 
 "through@>=2.2.7 <3", through@X.X.X:
   version "2.3.8"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
+  resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU=
 
 thunkify@^2.1.2:
@@ -7569,7 +7569,7 @@ tough-cookie@~2.3.0, tough-cookie@~2.3.3:
 
 tough-cookie@~2.4.3:
   version "2.4.3"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/tough-cookie/-/tough-cookie-2.4.3.tgz#53f36da3f47783b0925afa06ff9f3b165280f781"
+  resolved "https://registry.yarnpkg.com/tough-cookie/-/tough-cookie-2.4.3.tgz#53f36da3f47783b0925afa06ff9f3b165280f781"
   integrity sha1-U/Nto/R3g7CSWvoG/587FlKA94E=
   dependencies:
     psl "^1.1.24"
@@ -7577,7 +7577,7 @@ tough-cookie@~2.4.3:
 
 tree-kill@1.2.1:
   version "1.2.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/tree-kill/-/tree-kill-1.2.1.tgz#5398f374e2f292b9dcc7b2e71e30a5c3bb6c743a"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.1.tgz#5398f374e2f292b9dcc7b2e71e30a5c3bb6c743a"
   integrity sha1-U5jzdOLykrncx7LnHjClw7tsdDo=
 
 trim-newlines@^1.0.0:
@@ -7698,7 +7698,7 @@ typedarray@^0.0.6:
 
 typescript@2.9.2, "typescript@>=2.6.2 <2.10":
   version "2.9.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
   integrity sha1-HL9h0F1rliaSROtqO85L2RTg8Aw=
 
 typescript@~2.7.2:
@@ -7734,7 +7734,7 @@ uglify-to-browserify@~1.0.0:
 
 uglifyjs-webpack-plugin@1.3.0:
   version "1.3.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/uglifyjs-webpack-plugin/-/uglifyjs-webpack-plugin-1.3.0.tgz#75f548160858163a08643e086d5fefe18a5d67de"
+  resolved "https://registry.yarnpkg.com/uglifyjs-webpack-plugin/-/uglifyjs-webpack-plugin-1.3.0.tgz#75f548160858163a08643e086d5fefe18a5d67de"
   integrity sha1-dfVIFghYFjoIZD4IbV/v4YpdZ94=
   dependencies:
     cacache "^10.0.4"
@@ -7788,7 +7788,7 @@ unique-filename@^1.1.0:
 
 unique-filename@^1.1.1:
   version "1.1.1"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/unique-filename/-/unique-filename-1.1.1.tgz#1d69769369ada0583103a1e6ae87681b56573230"
+  resolved "https://registry.yarnpkg.com/unique-filename/-/unique-filename-1.1.1.tgz#1d69769369ada0583103a1e6ae87681b56573230"
   integrity sha1-HWl2k2mtoFgxA6HmrodoG1ZXMjA=
   dependencies:
     unique-slug "^2.0.0"
@@ -7865,7 +7865,7 @@ urix@^0.1.0:
 
 url-loader@1.1.2:
   version "1.1.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/url-loader/-/url-loader-1.1.2.tgz#b971d191b83af693c5e3fea4064be9e1f2d7f8d8"
+  resolved "https://registry.yarnpkg.com/url-loader/-/url-loader-1.1.2.tgz#b971d191b83af693c5e3fea4064be9e1f2d7f8d8"
   integrity sha1-uXHRkbg69pPF4/6kBkvp4fLX+Ng=
   dependencies:
     loader-utils "^1.1.0"
@@ -7880,7 +7880,7 @@ url-parse-lax@^1.0.0:
 
 url-parse@^1.4.3:
   version "1.4.4"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/url-parse/-/url-parse-1.4.4.tgz#cac1556e95faa0303691fec5cf9d5a1bc34648f8"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.4.tgz#cac1556e95faa0303691fec5cf9d5a1bc34648f8"
   integrity sha1-ysFVbpX6oDA2kf7Fz51aG8NGSPg=
   dependencies:
     querystringify "^2.0.0"
@@ -8034,7 +8034,7 @@ webpack-core@^0.6.8:
 
 webpack-dev-middleware@3.4.0:
   version "3.4.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/webpack-dev-middleware/-/webpack-dev-middleware-3.4.0.tgz#1132fecc9026fd90f0ecedac5cbff75d1fb45890"
+  resolved "https://registry.yarnpkg.com/webpack-dev-middleware/-/webpack-dev-middleware-3.4.0.tgz#1132fecc9026fd90f0ecedac5cbff75d1fb45890"
   integrity sha1-ETL+zJAm/ZDw7O2sXL/3XR+0WJA=
   dependencies:
     memory-fs "~0.4.1"
@@ -8044,7 +8044,7 @@ webpack-dev-middleware@3.4.0:
 
 webpack-dev-server@3.1.14:
   version "3.1.14"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/webpack-dev-server/-/webpack-dev-server-3.1.14.tgz#60fb229b997fc5a0a1fc6237421030180959d469"
+  resolved "https://registry.yarnpkg.com/webpack-dev-server/-/webpack-dev-server-3.1.14.tgz#60fb229b997fc5a0a1fc6237421030180959d469"
   integrity sha1-YPsim5l/xaCh/GI3QhAwGAlZ1Gk=
   dependencies:
     ansi-html "0.0.7"
@@ -8080,7 +8080,7 @@ webpack-dev-server@3.1.14:
 
 webpack-log@^2.0.0:
   version "2.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/webpack-log/-/webpack-log-2.0.0.tgz#5b7928e0637593f119d32f6227c1e0ac31e1b47f"
+  resolved "https://registry.yarnpkg.com/webpack-log/-/webpack-log-2.0.0.tgz#5b7928e0637593f119d32f6227c1e0ac31e1b47f"
   integrity sha1-W3ko4GN1k/EZ0y9iJ8HgrDHhtH8=
   dependencies:
     ansi-colors "^3.0.0"
@@ -8088,14 +8088,14 @@ webpack-log@^2.0.0:
 
 webpack-merge@4.1.4:
   version "4.1.4"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/webpack-merge/-/webpack-merge-4.1.4.tgz#0fde38eabf2d5fd85251c24a5a8c48f8a3f4eb7b"
+  resolved "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-4.1.4.tgz#0fde38eabf2d5fd85251c24a5a8c48f8a3f4eb7b"
   integrity sha1-D9446r8tX9hSUcJKWoxI+KP063s=
   dependencies:
     lodash "^4.17.5"
 
 webpack-sources@1.3.0:
   version "1.3.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/webpack-sources/-/webpack-sources-1.3.0.tgz#2a28dcb9f1f45fe960d8f1493252b5ee6530fa85"
+  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-1.3.0.tgz#2a28dcb9f1f45fe960d8f1493252b5ee6530fa85"
   integrity sha1-KijcufH0X+lg2PFJMlK17mUw+oU=
   dependencies:
     source-list-map "^2.0.0"
@@ -8110,14 +8110,14 @@ webpack-sources@^1.0.1, webpack-sources@^1.1.0:
 
 webpack-subresource-integrity@1.1.0-rc.4:
   version "1.1.0-rc.4"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/webpack-subresource-integrity/-/webpack-subresource-integrity-1.1.0-rc.4.tgz#c5c4e3d690f9d2f64a9550e07a8767f9796aa5d8"
+  resolved "https://registry.yarnpkg.com/webpack-subresource-integrity/-/webpack-subresource-integrity-1.1.0-rc.4.tgz#c5c4e3d690f9d2f64a9550e07a8767f9796aa5d8"
   integrity sha1-xcTj1pD50vZKlVDgeodn+Xlqpdg=
   dependencies:
     webpack-core "^0.6.8"
 
 webpack@4.16.4:
   version "4.16.4"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/webpack/-/webpack-4.16.4.tgz#6b020f76483bc66339164c296d89978aa100d37a"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-4.16.4.tgz#6b020f76483bc66339164c296d89978aa100d37a"
   integrity sha1-awIPdkg7xmM5FkwpbYmXiqEA03o=
   dependencies:
     "@webassemblyjs/ast" "1.5.13"
@@ -8287,7 +8287,7 @@ xregexp@2.0.0:
 
 xregexp@4.0.0:
   version "4.0.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/xregexp/-/xregexp-4.0.0.tgz#e698189de49dd2a18cc5687b05e17c8e43943020"
+  resolved "https://registry.yarnpkg.com/xregexp/-/xregexp-4.0.0.tgz#e698189de49dd2a18cc5687b05e17c8e43943020"
   integrity sha1-5pgYneSd0qGMxWh7BeF8jkOUMCA=
 
 xtend@^4.0.0, xtend@~4.0.1:
@@ -8318,7 +8318,7 @@ yallist@^3.0.0, yallist@^3.0.2:
 
 yargs-parser@10.1.0, yargs-parser@^10.0.0, yargs-parser@^10.1.0:
   version "10.1.0"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/yargs-parser/-/yargs-parser-10.1.0.tgz#7202265b89f7e9e9f2e5765e0fe735a905edbaa8"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-10.1.0.tgz#7202265b89f7e9e9f2e5765e0fe735a905edbaa8"
   integrity sha1-cgImW4n36eny5XZeD+c1qQXtuqg=
   dependencies:
     camelcase "^4.1.0"
@@ -8331,7 +8331,7 @@ yargs-parser@^5.0.0:
 
 yargs@12.0.2:
   version "12.0.2"
-  resolved "http://repo.bison-group.com:80/artifactory/api/npm/npm-cache/yargs/-/yargs-12.0.2.tgz#fe58234369392af33ecbef53819171eff0f5aadc"
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-12.0.2.tgz#fe58234369392af33ecbef53819171eff0f5aadc"
   integrity sha1-/lgjQ2k5KvM+y+9TgZFx7/D1qtw=
   dependencies:
     cliui "^4.0.0"
